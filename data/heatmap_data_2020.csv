@@ -1,0 +1,171 @@
+constructorId,constructorName,year,date,raceName,points
+51,Alfa Romeo,2020,2020-07-05,Austrian Grand Prix,2.0
+213,AlphaTauri,2020,2020-07-05,Austrian Grand Prix,6.0
+4,Alpine,2020,2020-07-05,Austrian Grand Prix,4.0
+211,Aston Martin,2020,2020-07-05,Austrian Grand Prix,8.0
+6,Ferrari,2020,2020-07-05,Austrian Grand Prix,19.0
+210,Haas F1 Team,2020,2020-07-05,Austrian Grand Prix,0.0
+1,McLaren,2020,2020-07-05,Austrian Grand Prix,26.0
+131,Mercedes,2020,2020-07-05,Austrian Grand Prix,37.0
+9,Red Bull,2020,2020-07-05,Austrian Grand Prix,0.0
+3,Williams,2020,2020-07-05,Austrian Grand Prix,0.0
+51,Alfa Romeo,2020,2020-07-12,Styrian Grand Prix,0.0
+213,AlphaTauri,2020,2020-07-12,Styrian Grand Prix,1.0
+4,Alpine,2020,2020-07-12,Styrian Grand Prix,4.0
+211,Aston Martin,2020,2020-07-12,Styrian Grand Prix,14.0
+6,Ferrari,2020,2020-07-12,Styrian Grand Prix,0.0
+210,Haas F1 Team,2020,2020-07-12,Styrian Grand Prix,0.0
+1,McLaren,2020,2020-07-12,Styrian Grand Prix,13.0
+131,Mercedes,2020,2020-07-12,Styrian Grand Prix,43.0
+9,Red Bull,2020,2020-07-12,Styrian Grand Prix,27.0
+3,Williams,2020,2020-07-12,Styrian Grand Prix,0.0
+51,Alfa Romeo,2020,2020-07-19,Hungarian Grand Prix,0.0
+213,AlphaTauri,2020,2020-07-19,Hungarian Grand Prix,0.0
+4,Alpine,2020,2020-07-19,Hungarian Grand Prix,4.0
+211,Aston Martin,2020,2020-07-19,Hungarian Grand Prix,18.0
+6,Ferrari,2020,2020-07-19,Hungarian Grand Prix,8.0
+210,Haas F1 Team,2020,2020-07-19,Hungarian Grand Prix,1.0
+1,McLaren,2020,2020-07-19,Hungarian Grand Prix,2.0
+131,Mercedes,2020,2020-07-19,Hungarian Grand Prix,41.0
+9,Red Bull,2020,2020-07-19,Hungarian Grand Prix,28.0
+3,Williams,2020,2020-07-19,Hungarian Grand Prix,0.0
+51,Alfa Romeo,2020,2020-08-02,British Grand Prix,0.0
+213,AlphaTauri,2020,2020-08-02,British Grand Prix,6.0
+4,Alpine,2020,2020-08-02,British Grand Prix,20.0
+211,Aston Martin,2020,2020-08-02,British Grand Prix,2.0
+6,Ferrari,2020,2020-08-02,British Grand Prix,16.0
+210,Haas F1 Team,2020,2020-08-02,British Grand Prix,0.0
+1,McLaren,2020,2020-08-02,British Grand Prix,10.0
+131,Mercedes,2020,2020-08-02,British Grand Prix,25.0
+9,Red Bull,2020,2020-08-02,British Grand Prix,23.0
+3,Williams,2020,2020-08-02,British Grand Prix,0.0
+51,Alfa Romeo,2020,2020-08-09,70th Anniversary Grand Prix,0.0
+213,AlphaTauri,2020,2020-08-09,70th Anniversary Grand Prix,1.0
+4,Alpine,2020,2020-08-09,70th Anniversary Grand Prix,4.0
+211,Aston Martin,2020,2020-08-09,70th Anniversary Grand Prix,14.0
+6,Ferrari,2020,2020-08-09,70th Anniversary Grand Prix,12.0
+210,Haas F1 Team,2020,2020-08-09,70th Anniversary Grand Prix,0.0
+1,McLaren,2020,2020-08-09,70th Anniversary Grand Prix,2.0
+131,Mercedes,2020,2020-08-09,70th Anniversary Grand Prix,34.0
+9,Red Bull,2020,2020-08-09,70th Anniversary Grand Prix,35.0
+3,Williams,2020,2020-08-09,70th Anniversary Grand Prix,0.0
+51,Alfa Romeo,2020,2020-08-16,Spanish Grand Prix,0.0
+213,AlphaTauri,2020,2020-08-16,Spanish Grand Prix,2.0
+4,Alpine,2020,2020-08-16,Spanish Grand Prix,0.0
+211,Aston Martin,2020,2020-08-16,Spanish Grand Prix,22.0
+6,Ferrari,2020,2020-08-16,Spanish Grand Prix,6.0
+210,Haas F1 Team,2020,2020-08-16,Spanish Grand Prix,0.0
+1,McLaren,2020,2020-08-16,Spanish Grand Prix,9.0
+131,Mercedes,2020,2020-08-16,Spanish Grand Prix,41.0
+9,Red Bull,2020,2020-08-16,Spanish Grand Prix,22.0
+3,Williams,2020,2020-08-16,Spanish Grand Prix,0.0
+51,Alfa Romeo,2020,2020-08-30,Belgian Grand Prix,0.0
+213,AlphaTauri,2020,2020-08-30,Belgian Grand Prix,4.0
+4,Alpine,2020,2020-08-30,Belgian Grand Prix,23.0
+211,Aston Martin,2020,2020-08-30,Belgian Grand Prix,3.0
+6,Ferrari,2020,2020-08-30,Belgian Grand Prix,0.0
+210,Haas F1 Team,2020,2020-08-30,Belgian Grand Prix,0.0
+1,McLaren,2020,2020-08-30,Belgian Grand Prix,6.0
+131,Mercedes,2020,2020-08-30,Belgian Grand Prix,43.0
+9,Red Bull,2020,2020-08-30,Belgian Grand Prix,23.0
+3,Williams,2020,2020-08-30,Belgian Grand Prix,0.0
+51,Alfa Romeo,2020,2020-09-06,Italian Grand Prix,0.0
+213,AlphaTauri,2020,2020-09-06,Italian Grand Prix,27.0
+4,Alpine,2020,2020-09-06,Italian Grand Prix,12.0
+211,Aston Martin,2020,2020-09-06,Italian Grand Prix,16.0
+6,Ferrari,2020,2020-09-06,Italian Grand Prix,0.0
+210,Haas F1 Team,2020,2020-09-06,Italian Grand Prix,0.0
+1,McLaren,2020,2020-09-06,Italian Grand Prix,30.0
+131,Mercedes,2020,2020-09-06,Italian Grand Prix,17.0
+9,Red Bull,2020,2020-09-06,Italian Grand Prix,0.0
+3,Williams,2020,2020-09-06,Italian Grand Prix,0.0
+51,Alfa Romeo,2020,2020-09-13,Tuscan Grand Prix,2.0
+213,AlphaTauri,2020,2020-09-13,Tuscan Grand Prix,6.0
+4,Alpine,2020,2020-09-13,Tuscan Grand Prix,12.0
+211,Aston Martin,2020,2020-09-13,Tuscan Grand Prix,10.0
+6,Ferrari,2020,2020-09-13,Tuscan Grand Prix,5.0
+210,Haas F1 Team,2020,2020-09-13,Tuscan Grand Prix,0.0
+1,McLaren,2020,2020-09-13,Tuscan Grand Prix,8.0
+131,Mercedes,2020,2020-09-13,Tuscan Grand Prix,44.0
+9,Red Bull,2020,2020-09-13,Tuscan Grand Prix,15.0
+3,Williams,2020,2020-09-13,Tuscan Grand Prix,0.0
+51,Alfa Romeo,2020,2020-09-27,Russian Grand Prix,0.0
+213,AlphaTauri,2020,2020-09-27,Russian Grand Prix,6.0
+4,Alpine,2020,2020-09-27,Russian Grand Prix,16.0
+211,Aston Martin,2020,2020-09-27,Russian Grand Prix,12.0
+6,Ferrari,2020,2020-09-27,Russian Grand Prix,8.0
+210,Haas F1 Team,2020,2020-09-27,Russian Grand Prix,0.0
+1,McLaren,2020,2020-09-27,Russian Grand Prix,0.0
+131,Mercedes,2020,2020-09-27,Russian Grand Prix,41.0
+9,Red Bull,2020,2020-09-27,Russian Grand Prix,19.0
+3,Williams,2020,2020-09-27,Russian Grand Prix,0.0
+51,Alfa Romeo,2020,2020-10-11,Eifel Grand Prix,1.0
+213,AlphaTauri,2020,2020-10-11,Eifel Grand Prix,8.0
+4,Alpine,2020,2020-10-11,Eifel Grand Prix,15.0
+211,Aston Martin,2020,2020-10-11,Eifel Grand Prix,16.0
+6,Ferrari,2020,2020-10-11,Eifel Grand Prix,6.0
+210,Haas F1 Team,2020,2020-10-11,Eifel Grand Prix,2.0
+1,McLaren,2020,2020-10-11,Eifel Grand Prix,10.0
+131,Mercedes,2020,2020-10-11,Eifel Grand Prix,25.0
+9,Red Bull,2020,2020-10-11,Eifel Grand Prix,19.0
+3,Williams,2020,2020-10-11,Eifel Grand Prix,0.0
+51,Alfa Romeo,2020,2020-10-25,Portuguese Grand Prix,0.0
+213,AlphaTauri,2020,2020-10-25,Portuguese Grand Prix,10.0
+4,Alpine,2020,2020-10-25,Portuguese Grand Prix,6.0
+211,Aston Martin,2020,2020-10-25,Portuguese Grand Prix,6.0
+6,Ferrari,2020,2020-10-25,Portuguese Grand Prix,13.0
+210,Haas F1 Team,2020,2020-10-25,Portuguese Grand Prix,0.0
+1,McLaren,2020,2020-10-25,Portuguese Grand Prix,8.0
+131,Mercedes,2020,2020-10-25,Portuguese Grand Prix,44.0
+9,Red Bull,2020,2020-10-25,Portuguese Grand Prix,15.0
+3,Williams,2020,2020-10-25,Portuguese Grand Prix,0.0
+51,Alfa Romeo,2020,2020-11-01,Emilia Romagna Grand Prix,3.0
+213,AlphaTauri,2020,2020-11-01,Emilia Romagna Grand Prix,12.0
+4,Alpine,2020,2020-11-01,Emilia Romagna Grand Prix,15.0
+211,Aston Martin,2020,2020-11-01,Emilia Romagna Grand Prix,8.0
+6,Ferrari,2020,2020-11-01,Emilia Romagna Grand Prix,10.0
+210,Haas F1 Team,2020,2020-11-01,Emilia Romagna Grand Prix,0.0
+1,McLaren,2020,2020-11-01,Emilia Romagna Grand Prix,10.0
+131,Mercedes,2020,2020-11-01,Emilia Romagna Grand Prix,44.0
+9,Red Bull,2020,2020-11-01,Emilia Romagna Grand Prix,0.0
+3,Williams,2020,2020-11-01,Emilia Romagna Grand Prix,0.0
+51,Alfa Romeo,2020,2020-11-15,Turkish Grand Prix,0.0
+213,AlphaTauri,2020,2020-11-15,Turkish Grand Prix,0.0
+4,Alpine,2020,2020-11-15,Turkish Grand Prix,1.0
+211,Aston Martin,2020,2020-11-15,Turkish Grand Prix,20.0
+6,Ferrari,2020,2020-11-15,Turkish Grand Prix,27.0
+210,Haas F1 Team,2020,2020-11-15,Turkish Grand Prix,0.0
+1,McLaren,2020,2020-11-15,Turkish Grand Prix,15.0
+131,Mercedes,2020,2020-11-15,Turkish Grand Prix,25.0
+9,Red Bull,2020,2020-11-15,Turkish Grand Prix,14.0
+3,Williams,2020,2020-11-15,Turkish Grand Prix,0.0
+51,Alfa Romeo,2020,2020-11-29,Bahrain Grand Prix,0.0
+213,AlphaTauri,2020,2020-11-29,Bahrain Grand Prix,8.0
+4,Alpine,2020,2020-11-29,Bahrain Grand Prix,8.0
+211,Aston Martin,2020,2020-11-29,Bahrain Grand Prix,0.0
+6,Ferrari,2020,2020-11-29,Bahrain Grand Prix,1.0
+210,Haas F1 Team,2020,2020-11-29,Bahrain Grand Prix,0.0
+1,McLaren,2020,2020-11-29,Bahrain Grand Prix,22.0
+131,Mercedes,2020,2020-11-29,Bahrain Grand Prix,29.0
+9,Red Bull,2020,2020-11-29,Bahrain Grand Prix,34.0
+3,Williams,2020,2020-11-29,Bahrain Grand Prix,0.0
+51,Alfa Romeo,2020,2020-12-06,Sakhir Grand Prix,0.0
+213,AlphaTauri,2020,2020-12-06,Sakhir Grand Prix,6.0
+4,Alpine,2020,2020-12-06,Sakhir Grand Prix,28.0
+211,Aston Martin,2020,2020-12-06,Sakhir Grand Prix,40.0
+6,Ferrari,2020,2020-12-06,Sakhir Grand Prix,0.0
+210,Haas F1 Team,2020,2020-12-06,Sakhir Grand Prix,0.0
+1,McLaren,2020,2020-12-06,Sakhir Grand Prix,13.0
+131,Mercedes,2020,2020-12-06,Sakhir Grand Prix,7.0
+9,Red Bull,2020,2020-12-06,Sakhir Grand Prix,8.0
+3,Williams,2020,2020-12-06,Sakhir Grand Prix,0.0
+51,Alfa Romeo,2020,2020-12-13,Abu Dhabi Grand Prix,0.0
+213,AlphaTauri,2020,2020-12-13,Abu Dhabi Grand Prix,4.0
+4,Alpine,2020,2020-12-13,Abu Dhabi Grand Prix,9.0
+211,Aston Martin,2020,2020-12-13,Abu Dhabi Grand Prix,1.0
+6,Ferrari,2020,2020-12-13,Abu Dhabi Grand Prix,0.0
+210,Haas F1 Team,2020,2020-12-13,Abu Dhabi Grand Prix,0.0
+1,McLaren,2020,2020-12-13,Abu Dhabi Grand Prix,18.0
+131,Mercedes,2020,2020-12-13,Abu Dhabi Grand Prix,33.0
+9,Red Bull,2020,2020-12-13,Abu Dhabi Grand Prix,37.0
+3,Williams,2020,2020-12-13,Abu Dhabi Grand Prix,0.0

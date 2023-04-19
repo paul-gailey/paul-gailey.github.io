@@ -1,0 +1,163 @@
+constructorId,constructorName,year,date,raceName,points
+2,Alfa Romeo,2008,2008-03-16,Australian Grand Prix,8.0
+5,AlphaTauri,2008,2008-03-16,Australian Grand Prix,2.0
+4,Alpine,2008,2008-03-16,Australian Grand Prix,5.0
+10,Aston Martin,2008,2008-03-16,Australian Grand Prix,0.0
+6,Ferrari,2008,2008-03-16,Australian Grand Prix,1.0
+1,McLaren,2008,2008-03-16,Australian Grand Prix,14.0
+11,Mercedes,2008,2008-03-16,Australian Grand Prix,0.0
+9,Red Bull,2008,2008-03-16,Australian Grand Prix,0.0
+3,Williams,2008,2008-03-16,Australian Grand Prix,9.0
+2,Alfa Romeo,2008,2008-03-23,Malaysian Grand Prix,11.0
+5,AlphaTauri,2008,2008-03-23,Malaysian Grand Prix,0.0
+4,Alpine,2008,2008-03-23,Malaysian Grand Prix,1.0
+10,Aston Martin,2008,2008-03-23,Malaysian Grand Prix,0.0
+6,Ferrari,2008,2008-03-23,Malaysian Grand Prix,10.0
+1,McLaren,2008,2008-03-23,Malaysian Grand Prix,10.0
+11,Mercedes,2008,2008-03-23,Malaysian Grand Prix,0.0
+9,Red Bull,2008,2008-03-23,Malaysian Grand Prix,2.0
+3,Williams,2008,2008-03-23,Malaysian Grand Prix,0.0
+2,Alfa Romeo,2008,2008-04-06,Bahrain Grand Prix,11.0
+5,AlphaTauri,2008,2008-04-06,Bahrain Grand Prix,0.0
+4,Alpine,2008,2008-04-06,Bahrain Grand Prix,0.0
+10,Aston Martin,2008,2008-04-06,Bahrain Grand Prix,0.0
+6,Ferrari,2008,2008-04-06,Bahrain Grand Prix,18.0
+1,McLaren,2008,2008-04-06,Bahrain Grand Prix,4.0
+11,Mercedes,2008,2008-04-06,Bahrain Grand Prix,0.0
+9,Red Bull,2008,2008-04-06,Bahrain Grand Prix,2.0
+3,Williams,2008,2008-04-06,Bahrain Grand Prix,1.0
+2,Alfa Romeo,2008,2008-04-27,Spanish Grand Prix,5.0
+5,AlphaTauri,2008,2008-04-27,Spanish Grand Prix,0.0
+4,Alpine,2008,2008-04-27,Spanish Grand Prix,0.0
+10,Aston Martin,2008,2008-04-27,Spanish Grand Prix,0.0
+6,Ferrari,2008,2008-04-27,Spanish Grand Prix,18.0
+1,McLaren,2008,2008-04-27,Spanish Grand Prix,6.0
+11,Mercedes,2008,2008-04-27,Spanish Grand Prix,3.0
+9,Red Bull,2008,2008-04-27,Spanish Grand Prix,4.0
+3,Williams,2008,2008-04-27,Spanish Grand Prix,2.0
+2,Alfa Romeo,2008,2008-05-11,Turkish Grand Prix,9.0
+5,AlphaTauri,2008,2008-05-11,Turkish Grand Prix,0.0
+4,Alpine,2008,2008-05-11,Turkish Grand Prix,3.0
+10,Aston Martin,2008,2008-05-11,Turkish Grand Prix,0.0
+6,Ferrari,2008,2008-05-11,Turkish Grand Prix,16.0
+1,McLaren,2008,2008-05-11,Turkish Grand Prix,8.0
+11,Mercedes,2008,2008-05-11,Turkish Grand Prix,0.0
+9,Red Bull,2008,2008-05-11,Turkish Grand Prix,2.0
+3,Williams,2008,2008-05-11,Turkish Grand Prix,1.0
+2,Alfa Romeo,2008,2008-05-25,Monaco Grand Prix,8.0
+5,AlphaTauri,2008,2008-05-25,Monaco Grand Prix,4.0
+4,Alpine,2008,2008-05-25,Monaco Grand Prix,0.0
+10,Aston Martin,2008,2008-05-25,Monaco Grand Prix,0.0
+6,Ferrari,2008,2008-05-25,Monaco Grand Prix,6.0
+1,McLaren,2008,2008-05-25,Monaco Grand Prix,11.0
+11,Mercedes,2008,2008-05-25,Monaco Grand Prix,3.0
+9,Red Bull,2008,2008-05-25,Monaco Grand Prix,5.0
+3,Williams,2008,2008-05-25,Monaco Grand Prix,2.0
+2,Alfa Romeo,2008,2008-06-08,Canadian Grand Prix,18.0
+5,AlphaTauri,2008,2008-06-08,Canadian Grand Prix,1.0
+4,Alpine,2008,2008-06-08,Canadian Grand Prix,0.0
+10,Aston Martin,2008,2008-06-08,Canadian Grand Prix,0.0
+6,Ferrari,2008,2008-06-08,Canadian Grand Prix,4.0
+1,McLaren,2008,2008-06-08,Canadian Grand Prix,0.0
+11,Mercedes,2008,2008-06-08,Canadian Grand Prix,2.0
+9,Red Bull,2008,2008-06-08,Canadian Grand Prix,6.0
+3,Williams,2008,2008-06-08,Canadian Grand Prix,0.0
+2,Alfa Romeo,2008,2008-06-22,French Grand Prix,4.0
+5,AlphaTauri,2008,2008-06-22,French Grand Prix,0.0
+4,Alpine,2008,2008-06-22,French Grand Prix,3.0
+10,Aston Martin,2008,2008-06-22,French Grand Prix,0.0
+6,Ferrari,2008,2008-06-22,French Grand Prix,18.0
+1,McLaren,2008,2008-06-22,French Grand Prix,5.0
+11,Mercedes,2008,2008-06-22,French Grand Prix,0.0
+9,Red Bull,2008,2008-06-22,French Grand Prix,3.0
+3,Williams,2008,2008-06-22,French Grand Prix,0.0
+2,Alfa Romeo,2008,2008-07-06,British Grand Prix,8.0
+5,AlphaTauri,2008,2008-07-06,British Grand Prix,0.0
+4,Alpine,2008,2008-07-06,British Grand Prix,3.0
+10,Aston Martin,2008,2008-07-06,British Grand Prix,0.0
+6,Ferrari,2008,2008-07-06,British Grand Prix,5.0
+1,McLaren,2008,2008-07-06,British Grand Prix,14.0
+11,Mercedes,2008,2008-07-06,British Grand Prix,6.0
+9,Red Bull,2008,2008-07-06,British Grand Prix,0.0
+3,Williams,2008,2008-07-06,British Grand Prix,1.0
+2,Alfa Romeo,2008,2008-07-20,German Grand Prix,7.0
+5,AlphaTauri,2008,2008-07-20,German Grand Prix,1.0
+4,Alpine,2008,2008-07-20,German Grand Prix,8.0
+10,Aston Martin,2008,2008-07-20,German Grand Prix,0.0
+6,Ferrari,2008,2008-07-20,German Grand Prix,9.0
+1,McLaren,2008,2008-07-20,German Grand Prix,14.0
+11,Mercedes,2008,2008-07-20,German Grand Prix,0.0
+9,Red Bull,2008,2008-07-20,German Grand Prix,0.0
+3,Williams,2008,2008-07-20,German Grand Prix,0.0
+2,Alfa Romeo,2008,2008-08-03,Hungarian Grand Prix,1.0
+5,AlphaTauri,2008,2008-08-03,Hungarian Grand Prix,0.0
+4,Alpine,2008,2008-08-03,Hungarian Grand Prix,8.0
+10,Aston Martin,2008,2008-08-03,Hungarian Grand Prix,0.0
+6,Ferrari,2008,2008-08-03,Hungarian Grand Prix,6.0
+1,McLaren,2008,2008-08-03,Hungarian Grand Prix,14.0
+11,Mercedes,2008,2008-08-03,Hungarian Grand Prix,0.0
+9,Red Bull,2008,2008-08-03,Hungarian Grand Prix,0.0
+3,Williams,2008,2008-08-03,Hungarian Grand Prix,0.0
+2,Alfa Romeo,2008,2008-08-24,European Grand Prix,6.0
+5,AlphaTauri,2008,2008-08-24,European Grand Prix,3.0
+4,Alpine,2008,2008-08-24,European Grand Prix,0.0
+10,Aston Martin,2008,2008-08-24,European Grand Prix,0.0
+6,Ferrari,2008,2008-08-24,European Grand Prix,10.0
+1,McLaren,2008,2008-08-24,European Grand Prix,13.0
+11,Mercedes,2008,2008-08-24,European Grand Prix,0.0
+9,Red Bull,2008,2008-08-24,European Grand Prix,0.0
+3,Williams,2008,2008-08-24,European Grand Prix,1.0
+2,Alfa Romeo,2008,2008-09-07,Belgian Grand Prix,11.0
+5,AlphaTauri,2008,2008-09-07,Belgian Grand Prix,6.0
+4,Alpine,2008,2008-09-07,Belgian Grand Prix,5.0
+10,Aston Martin,2008,2008-09-07,Belgian Grand Prix,0.0
+6,Ferrari,2008,2008-09-07,Belgian Grand Prix,10.0
+1,McLaren,2008,2008-09-07,Belgian Grand Prix,6.0
+11,Mercedes,2008,2008-09-07,Belgian Grand Prix,0.0
+9,Red Bull,2008,2008-09-07,Belgian Grand Prix,1.0
+3,Williams,2008,2008-09-07,Belgian Grand Prix,0.0
+2,Alfa Romeo,2008,2008-09-14,Italian Grand Prix,10.0
+5,AlphaTauri,2008,2008-09-14,Italian Grand Prix,10.0
+4,Alpine,2008,2008-09-14,Italian Grand Prix,5.0
+10,Aston Martin,2008,2008-09-14,Italian Grand Prix,0.0
+6,Ferrari,2008,2008-09-14,Italian Grand Prix,3.0
+1,McLaren,2008,2008-09-14,Italian Grand Prix,10.0
+11,Mercedes,2008,2008-09-14,Italian Grand Prix,0.0
+9,Red Bull,2008,2008-09-14,Italian Grand Prix,1.0
+3,Williams,2008,2008-09-14,Italian Grand Prix,0.0
+2,Alfa Romeo,2008,2008-09-28,Singapore Grand Prix,3.0
+5,AlphaTauri,2008,2008-09-28,Singapore Grand Prix,4.0
+4,Alpine,2008,2008-09-28,Singapore Grand Prix,10.0
+10,Aston Martin,2008,2008-09-28,Singapore Grand Prix,0.0
+6,Ferrari,2008,2008-09-28,Singapore Grand Prix,0.0
+1,McLaren,2008,2008-09-28,Singapore Grand Prix,6.0
+11,Mercedes,2008,2008-09-28,Singapore Grand Prix,0.0
+9,Red Bull,2008,2008-09-28,Singapore Grand Prix,2.0
+3,Williams,2008,2008-09-28,Singapore Grand Prix,9.0
+2,Alfa Romeo,2008,2008-10-12,Japanese Grand Prix,8.0
+5,AlphaTauri,2008,2008-10-12,Japanese Grand Prix,3.0
+4,Alpine,2008,2008-10-12,Japanese Grand Prix,15.0
+10,Aston Martin,2008,2008-10-12,Japanese Grand Prix,0.0
+6,Ferrari,2008,2008-10-12,Japanese Grand Prix,8.0
+1,McLaren,2008,2008-10-12,Japanese Grand Prix,0.0
+11,Mercedes,2008,2008-10-12,Japanese Grand Prix,0.0
+9,Red Bull,2008,2008-10-12,Japanese Grand Prix,1.0
+3,Williams,2008,2008-10-12,Japanese Grand Prix,0.0
+2,Alfa Romeo,2008,2008-10-19,Chinese Grand Prix,7.0
+5,AlphaTauri,2008,2008-10-19,Chinese Grand Prix,0.0
+4,Alpine,2008,2008-10-19,Chinese Grand Prix,6.0
+10,Aston Martin,2008,2008-10-19,Chinese Grand Prix,0.0
+6,Ferrari,2008,2008-10-19,Chinese Grand Prix,14.0
+1,McLaren,2008,2008-10-19,Chinese Grand Prix,10.0
+11,Mercedes,2008,2008-10-19,Chinese Grand Prix,0.0
+9,Red Bull,2008,2008-10-19,Chinese Grand Prix,0.0
+3,Williams,2008,2008-10-19,Chinese Grand Prix,0.0
+2,Alfa Romeo,2008,2008-11-02,Brazilian Grand Prix,0.0
+5,AlphaTauri,2008,2008-11-02,Brazilian Grand Prix,5.0
+4,Alpine,2008,2008-11-02,Brazilian Grand Prix,8.0
+10,Aston Martin,2008,2008-11-02,Brazilian Grand Prix,0.0
+6,Ferrari,2008,2008-11-02,Brazilian Grand Prix,16.0
+1,McLaren,2008,2008-11-02,Brazilian Grand Prix,6.0
+11,Mercedes,2008,2008-11-02,Brazilian Grand Prix,0.0
+9,Red Bull,2008,2008-11-02,Brazilian Grand Prix,0.0
+3,Williams,2008,2008-11-02,Brazilian Grand Prix,0.0

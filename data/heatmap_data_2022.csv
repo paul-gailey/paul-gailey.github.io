@@ -1,0 +1,221 @@
+constructorId,constructorName,year,date,raceName,points
+51,Alfa Romeo,2022,2022-03-20,Bahrain Grand Prix,9.0
+213,AlphaTauri,2022,2022-03-20,Bahrain Grand Prix,4.0
+214,Alpine,2022,2022-03-20,Bahrain Grand Prix,8.0
+117,Aston Martin,2022,2022-03-20,Bahrain Grand Prix,0.0
+6,Ferrari,2022,2022-03-20,Bahrain Grand Prix,44.0
+210,Haas F1 Team,2022,2022-03-20,Bahrain Grand Prix,10.0
+1,McLaren,2022,2022-03-20,Bahrain Grand Prix,0.0
+131,Mercedes,2022,2022-03-20,Bahrain Grand Prix,27.0
+9,Red Bull,2022,2022-03-20,Bahrain Grand Prix,0.0
+3,Williams,2022,2022-03-20,Bahrain Grand Prix,0.0
+51,Alfa Romeo,2022,2022-03-27,Saudi Arabian Grand Prix,0.0
+213,AlphaTauri,2022,2022-03-27,Saudi Arabian Grand Prix,4.0
+214,Alpine,2022,2022-03-27,Saudi Arabian Grand Prix,8.0
+117,Aston Martin,2022,2022-03-27,Saudi Arabian Grand Prix,0.0
+6,Ferrari,2022,2022-03-27,Saudi Arabian Grand Prix,34.0
+210,Haas F1 Team,2022,2022-03-27,Saudi Arabian Grand Prix,2.0
+1,McLaren,2022,2022-03-27,Saudi Arabian Grand Prix,6.0
+131,Mercedes,2022,2022-03-27,Saudi Arabian Grand Prix,11.0
+9,Red Bull,2022,2022-03-27,Saudi Arabian Grand Prix,37.0
+3,Williams,2022,2022-03-27,Saudi Arabian Grand Prix,0.0
+51,Alfa Romeo,2022,2022-04-10,Australian Grand Prix,4.0
+213,AlphaTauri,2022,2022-04-10,Australian Grand Prix,2.0
+214,Alpine,2022,2022-04-10,Australian Grand Prix,6.0
+117,Aston Martin,2022,2022-04-10,Australian Grand Prix,0.0
+6,Ferrari,2022,2022-04-10,Australian Grand Prix,26.0
+210,Haas F1 Team,2022,2022-04-10,Australian Grand Prix,0.0
+1,McLaren,2022,2022-04-10,Australian Grand Prix,18.0
+131,Mercedes,2022,2022-04-10,Australian Grand Prix,27.0
+9,Red Bull,2022,2022-04-10,Australian Grand Prix,18.0
+3,Williams,2022,2022-04-10,Australian Grand Prix,1.0
+51,Alfa Romeo,2022,2022-04-24,Emilia Romagna Grand Prix,12.0
+213,AlphaTauri,2022,2022-04-24,Emilia Romagna Grand Prix,6.0
+214,Alpine,2022,2022-04-24,Emilia Romagna Grand Prix,0.0
+117,Aston Martin,2022,2022-04-24,Emilia Romagna Grand Prix,5.0
+6,Ferrari,2022,2022-04-24,Emilia Romagna Grand Prix,20.0
+210,Haas F1 Team,2022,2022-04-24,Emilia Romagna Grand Prix,3.0
+1,McLaren,2022,2022-04-24,Emilia Romagna Grand Prix,22.0
+131,Mercedes,2022,2022-04-24,Emilia Romagna Grand Prix,12.0
+9,Red Bull,2022,2022-04-24,Emilia Romagna Grand Prix,58.0
+3,Williams,2022,2022-04-24,Emilia Romagna Grand Prix,0.0
+51,Alfa Romeo,2022,2022-05-08,Miami Grand Prix,6.0
+213,AlphaTauri,2022,2022-05-08,Miami Grand Prix,0.0
+214,Alpine,2022,2022-05-08,Miami Grand Prix,4.0
+117,Aston Martin,2022,2022-05-08,Miami Grand Prix,1.0
+6,Ferrari,2022,2022-05-08,Miami Grand Prix,33.0
+210,Haas F1 Team,2022,2022-05-08,Miami Grand Prix,0.0
+1,McLaren,2022,2022-05-08,Miami Grand Prix,0.0
+131,Mercedes,2022,2022-05-08,Miami Grand Prix,18.0
+9,Red Bull,2022,2022-05-08,Miami Grand Prix,38.0
+3,Williams,2022,2022-05-08,Miami Grand Prix,2.0
+51,Alfa Romeo,2022,2022-05-22,Spanish Grand Prix,8.0
+213,AlphaTauri,2022,2022-05-22,Spanish Grand Prix,1.0
+214,Alpine,2022,2022-05-22,Spanish Grand Prix,8.0
+117,Aston Martin,2022,2022-05-22,Spanish Grand Prix,0.0
+6,Ferrari,2022,2022-05-22,Spanish Grand Prix,12.0
+210,Haas F1 Team,2022,2022-05-22,Spanish Grand Prix,0.0
+1,McLaren,2022,2022-05-22,Spanish Grand Prix,4.0
+131,Mercedes,2022,2022-05-22,Spanish Grand Prix,25.0
+9,Red Bull,2022,2022-05-22,Spanish Grand Prix,44.0
+3,Williams,2022,2022-05-22,Spanish Grand Prix,0.0
+51,Alfa Romeo,2022,2022-05-29,Monaco Grand Prix,2.0
+213,AlphaTauri,2022,2022-05-29,Monaco Grand Prix,0.0
+214,Alpine,2022,2022-05-29,Monaco Grand Prix,6.0
+117,Aston Martin,2022,2022-05-29,Monaco Grand Prix,1.0
+6,Ferrari,2022,2022-05-29,Monaco Grand Prix,30.0
+210,Haas F1 Team,2022,2022-05-29,Monaco Grand Prix,0.0
+1,McLaren,2022,2022-05-29,Monaco Grand Prix,9.0
+131,Mercedes,2022,2022-05-29,Monaco Grand Prix,14.0
+9,Red Bull,2022,2022-05-29,Monaco Grand Prix,40.0
+3,Williams,2022,2022-05-29,Monaco Grand Prix,0.0
+51,Alfa Romeo,2022,2022-06-12,Azerbaijan Grand Prix,0.0
+213,AlphaTauri,2022,2022-06-12,Azerbaijan Grand Prix,10.0
+214,Alpine,2022,2022-06-12,Azerbaijan Grand Prix,7.0
+117,Aston Martin,2022,2022-06-12,Azerbaijan Grand Prix,8.0
+6,Ferrari,2022,2022-06-12,Azerbaijan Grand Prix,0.0
+210,Haas F1 Team,2022,2022-06-12,Azerbaijan Grand Prix,0.0
+1,McLaren,2022,2022-06-12,Azerbaijan Grand Prix,6.0
+131,Mercedes,2022,2022-06-12,Azerbaijan Grand Prix,27.0
+9,Red Bull,2022,2022-06-12,Azerbaijan Grand Prix,44.0
+3,Williams,2022,2022-06-12,Azerbaijan Grand Prix,0.0
+51,Alfa Romeo,2022,2022-06-19,Canadian Grand Prix,10.0
+213,AlphaTauri,2022,2022-06-19,Canadian Grand Prix,0.0
+214,Alpine,2022,2022-06-19,Canadian Grand Prix,10.0
+117,Aston Martin,2022,2022-06-19,Canadian Grand Prix,1.0
+6,Ferrari,2022,2022-06-19,Canadian Grand Prix,29.0
+210,Haas F1 Team,2022,2022-06-19,Canadian Grand Prix,0.0
+1,McLaren,2022,2022-06-19,Canadian Grand Prix,0.0
+131,Mercedes,2022,2022-06-19,Canadian Grand Prix,27.0
+9,Red Bull,2022,2022-06-19,Canadian Grand Prix,25.0
+3,Williams,2022,2022-06-19,Canadian Grand Prix,0.0
+51,Alfa Romeo,2022,2022-07-03,British Grand Prix,0.0
+213,AlphaTauri,2022,2022-07-03,British Grand Prix,0.0
+214,Alpine,2022,2022-07-03,British Grand Prix,10.0
+117,Aston Martin,2022,2022-07-03,British Grand Prix,2.0
+6,Ferrari,2022,2022-07-03,British Grand Prix,37.0
+210,Haas F1 Team,2022,2022-07-03,British Grand Prix,5.0
+1,McLaren,2022,2022-07-03,British Grand Prix,8.0
+131,Mercedes,2022,2022-07-03,British Grand Prix,16.0
+9,Red Bull,2022,2022-07-03,British Grand Prix,24.0
+3,Williams,2022,2022-07-03,British Grand Prix,0.0
+51,Alfa Romeo,2022,2022-07-10,Austrian Grand Prix,0.0
+213,AlphaTauri,2022,2022-07-10,Austrian Grand Prix,0.0
+214,Alpine,2022,2022-07-10,Austrian Grand Prix,14.0
+117,Aston Martin,2022,2022-07-10,Austrian Grand Prix,0.0
+6,Ferrari,2022,2022-07-10,Austrian Grand Prix,38.0
+210,Haas F1 Team,2022,2022-07-10,Austrian Grand Prix,14.0
+1,McLaren,2022,2022-07-10,Austrian Grand Prix,8.0
+131,Mercedes,2022,2022-07-10,Austrian Grand Prix,33.0
+9,Red Bull,2022,2022-07-10,Austrian Grand Prix,31.0
+3,Williams,2022,2022-07-10,Austrian Grand Prix,0.0
+51,Alfa Romeo,2022,2022-07-24,French Grand Prix,0.0
+213,AlphaTauri,2022,2022-07-24,French Grand Prix,0.0
+214,Alpine,2022,2022-07-24,French Grand Prix,12.0
+117,Aston Martin,2022,2022-07-24,French Grand Prix,1.0
+6,Ferrari,2022,2022-07-24,French Grand Prix,11.0
+210,Haas F1 Team,2022,2022-07-24,French Grand Prix,0.0
+1,McLaren,2022,2022-07-24,French Grand Prix,8.0
+131,Mercedes,2022,2022-07-24,French Grand Prix,33.0
+9,Red Bull,2022,2022-07-24,French Grand Prix,37.0
+3,Williams,2022,2022-07-24,French Grand Prix,0.0
+51,Alfa Romeo,2022,2022-07-31,Hungarian Grand Prix,0.0
+213,AlphaTauri,2022,2022-07-31,Hungarian Grand Prix,0.0
+214,Alpine,2022,2022-07-31,Hungarian Grand Prix,6.0
+117,Aston Martin,2022,2022-07-31,Hungarian Grand Prix,1.0
+6,Ferrari,2022,2022-07-31,Hungarian Grand Prix,20.0
+210,Haas F1 Team,2022,2022-07-31,Hungarian Grand Prix,0.0
+1,McLaren,2022,2022-07-31,Hungarian Grand Prix,6.0
+131,Mercedes,2022,2022-07-31,Hungarian Grand Prix,34.0
+9,Red Bull,2022,2022-07-31,Hungarian Grand Prix,35.0
+3,Williams,2022,2022-07-31,Hungarian Grand Prix,0.0
+51,Alfa Romeo,2022,2022-08-28,Belgian Grand Prix,0.0
+213,AlphaTauri,2022,2022-08-28,Belgian Grand Prix,2.0
+214,Alpine,2022,2022-08-28,Belgian Grand Prix,16.0
+117,Aston Martin,2022,2022-08-28,Belgian Grand Prix,4.0
+6,Ferrari,2022,2022-08-28,Belgian Grand Prix,23.0
+210,Haas F1 Team,2022,2022-08-28,Belgian Grand Prix,0.0
+1,McLaren,2022,2022-08-28,Belgian Grand Prix,0.0
+131,Mercedes,2022,2022-08-28,Belgian Grand Prix,12.0
+9,Red Bull,2022,2022-08-28,Belgian Grand Prix,44.0
+3,Williams,2022,2022-08-28,Belgian Grand Prix,1.0
+51,Alfa Romeo,2022,2022-09-04,Dutch Grand Prix,0.0
+213,AlphaTauri,2022,2022-09-04,Dutch Grand Prix,0.0
+214,Alpine,2022,2022-09-04,Dutch Grand Prix,10.0
+117,Aston Martin,2022,2022-09-04,Dutch Grand Prix,1.0
+6,Ferrari,2022,2022-09-04,Dutch Grand Prix,19.0
+210,Haas F1 Team,2022,2022-09-04,Dutch Grand Prix,0.0
+1,McLaren,2022,2022-09-04,Dutch Grand Prix,6.0
+131,Mercedes,2022,2022-09-04,Dutch Grand Prix,30.0
+9,Red Bull,2022,2022-09-04,Dutch Grand Prix,36.0
+3,Williams,2022,2022-09-04,Dutch Grand Prix,0.0
+51,Alfa Romeo,2022,2022-09-11,Italian Grand Prix,1.0
+213,AlphaTauri,2022,2022-09-11,Italian Grand Prix,4.0
+214,Alpine,2022,2022-09-11,Italian Grand Prix,0.0
+117,Aston Martin,2022,2022-09-11,Italian Grand Prix,0.0
+6,Ferrari,2022,2022-09-11,Italian Grand Prix,30.0
+210,Haas F1 Team,2022,2022-09-11,Italian Grand Prix,0.0
+1,McLaren,2022,2022-09-11,Italian Grand Prix,6.0
+131,Mercedes,2022,2022-09-11,Italian Grand Prix,25.0
+9,Red Bull,2022,2022-09-11,Italian Grand Prix,34.0
+3,Williams,2022,2022-09-11,Italian Grand Prix,2.0
+51,Alfa Romeo,2022,2022-10-02,Singapore Grand Prix,0.0
+213,AlphaTauri,2022,2022-10-02,Singapore Grand Prix,1.0
+214,Alpine,2022,2022-10-02,Singapore Grand Prix,0.0
+117,Aston Martin,2022,2022-10-02,Singapore Grand Prix,12.0
+6,Ferrari,2022,2022-10-02,Singapore Grand Prix,33.0
+210,Haas F1 Team,2022,2022-10-02,Singapore Grand Prix,0.0
+1,McLaren,2022,2022-10-02,Singapore Grand Prix,22.0
+131,Mercedes,2022,2022-10-02,Singapore Grand Prix,2.0
+9,Red Bull,2022,2022-10-02,Singapore Grand Prix,31.0
+3,Williams,2022,2022-10-02,Singapore Grand Prix,0.0
+51,Alfa Romeo,2022,2022-10-09,Japanese Grand Prix,0.0
+213,AlphaTauri,2022,2022-10-09,Japanese Grand Prix,0.0
+214,Alpine,2022,2022-10-09,Japanese Grand Prix,18.0
+117,Aston Martin,2022,2022-10-09,Japanese Grand Prix,8.0
+6,Ferrari,2022,2022-10-09,Japanese Grand Prix,15.0
+210,Haas F1 Team,2022,2022-10-09,Japanese Grand Prix,0.0
+1,McLaren,2022,2022-10-09,Japanese Grand Prix,1.0
+131,Mercedes,2022,2022-10-09,Japanese Grand Prix,14.0
+9,Red Bull,2022,2022-10-09,Japanese Grand Prix,43.0
+3,Williams,2022,2022-10-09,Japanese Grand Prix,2.0
+51,Alfa Romeo,2022,2022-10-23,United States Grand Prix,0.0
+213,AlphaTauri,2022,2022-10-23,United States Grand Prix,1.0
+214,Alpine,2022,2022-10-23,United States Grand Prix,6.0
+117,Aston Martin,2022,2022-10-23,United States Grand Prix,4.0
+6,Ferrari,2022,2022-10-23,United States Grand Prix,15.0
+210,Haas F1 Team,2022,2022-10-23,United States Grand Prix,2.0
+1,McLaren,2022,2022-10-23,United States Grand Prix,8.0
+131,Mercedes,2022,2022-10-23,United States Grand Prix,29.0
+9,Red Bull,2022,2022-10-23,United States Grand Prix,37.0
+3,Williams,2022,2022-10-23,United States Grand Prix,0.0
+51,Alfa Romeo,2022,2022-10-30,Mexico City Grand Prix,1.0
+213,AlphaTauri,2022,2022-10-30,Mexico City Grand Prix,0.0
+214,Alpine,2022,2022-10-30,Mexico City Grand Prix,4.0
+117,Aston Martin,2022,2022-10-30,Mexico City Grand Prix,0.0
+6,Ferrari,2022,2022-10-30,Mexico City Grand Prix,18.0
+210,Haas F1 Team,2022,2022-10-30,Mexico City Grand Prix,0.0
+1,McLaren,2022,2022-10-30,Mexico City Grand Prix,8.0
+131,Mercedes,2022,2022-10-30,Mexico City Grand Prix,31.0
+9,Red Bull,2022,2022-10-30,Mexico City Grand Prix,40.0
+3,Williams,2022,2022-10-30,Mexico City Grand Prix,0.0
+51,Alfa Romeo,2022,2022-11-13,Brazilian Grand Prix,2.0
+213,AlphaTauri,2022,2022-11-13,Brazilian Grand Prix,0.0
+214,Alpine,2022,2022-11-13,Brazilian Grand Prix,14.0
+117,Aston Martin,2022,2022-11-13,Brazilian Grand Prix,1.0
+6,Ferrari,2022,2022-11-13,Brazilian Grand Prix,37.0
+210,Haas F1 Team,2022,2022-11-13,Brazilian Grand Prix,1.0
+1,McLaren,2022,2022-11-13,Brazilian Grand Prix,2.0
+131,Mercedes,2022,2022-11-13,Brazilian Grand Prix,58.0
+9,Red Bull,2022,2022-11-13,Brazilian Grand Prix,23.0
+3,Williams,2022,2022-11-13,Brazilian Grand Prix,0.0
+51,Alfa Romeo,2022,2022-11-20,Abu Dhabi Grand Prix,0.0
+213,AlphaTauri,2022,2022-11-20,Abu Dhabi Grand Prix,0.0
+214,Alpine,2022,2022-11-20,Abu Dhabi Grand Prix,6.0
+117,Aston Martin,2022,2022-11-20,Abu Dhabi Grand Prix,5.0
+6,Ferrari,2022,2022-11-20,Abu Dhabi Grand Prix,30.0
+210,Haas F1 Team,2022,2022-11-20,Abu Dhabi Grand Prix,0.0
+1,McLaren,2022,2022-11-20,Abu Dhabi Grand Prix,11.0
+131,Mercedes,2022,2022-11-20,Abu Dhabi Grand Prix,10.0
+9,Red Bull,2022,2022-11-20,Abu Dhabi Grand Prix,40.0
+3,Williams,2022,2022-11-20,Abu Dhabi Grand Prix,0.0

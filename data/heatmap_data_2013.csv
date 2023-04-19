@@ -1,0 +1,172 @@
+constructorId,constructorName,year,date,raceName,points
+15,Alfa Romeo,2013,2013-03-17,Australian Grand Prix,0.0
+5,AlphaTauri,2013,2013-03-17,Australian Grand Prix,0.0
+208,Alpine,2013,2013-03-17,Australian Grand Prix,26.0
+10,Aston Martin,2013,2013-03-17,Australian Grand Prix,10.0
+6,Ferrari,2013,2013-03-17,Australian Grand Prix,30.0
+1,McLaren,2013,2013-03-17,Australian Grand Prix,2.0
+131,Mercedes,2013,2013-03-17,Australian Grand Prix,10.0
+9,Red Bull,2013,2013-03-17,Australian Grand Prix,23.0
+3,Williams,2013,2013-03-17,Australian Grand Prix,0.0
+15,Alfa Romeo,2013,2013-03-24,Malaysian Grand Prix,4.0
+5,AlphaTauri,2013,2013-03-24,Malaysian Grand Prix,1.0
+208,Alpine,2013,2013-03-24,Malaysian Grand Prix,14.0
+10,Aston Martin,2013,2013-03-24,Malaysian Grand Prix,0.0
+6,Ferrari,2013,2013-03-24,Malaysian Grand Prix,10.0
+1,McLaren,2013,2013-03-24,Malaysian Grand Prix,2.0
+131,Mercedes,2013,2013-03-24,Malaysian Grand Prix,27.0
+9,Red Bull,2013,2013-03-24,Malaysian Grand Prix,43.0
+3,Williams,2013,2013-03-24,Malaysian Grand Prix,0.0
+15,Alfa Romeo,2013,2013-04-14,Chinese Grand Prix,1.0
+5,AlphaTauri,2013,2013-04-14,Chinese Grand Prix,6.0
+208,Alpine,2013,2013-04-14,Chinese Grand Prix,20.0
+10,Aston Martin,2013,2013-04-14,Chinese Grand Prix,4.0
+6,Ferrari,2013,2013-04-14,Chinese Grand Prix,33.0
+1,McLaren,2013,2013-04-14,Chinese Grand Prix,10.0
+131,Mercedes,2013,2013-04-14,Chinese Grand Prix,15.0
+9,Red Bull,2013,2013-04-14,Chinese Grand Prix,12.0
+3,Williams,2013,2013-04-14,Chinese Grand Prix,0.0
+15,Alfa Romeo,2013,2013-04-21,Bahrain Grand Prix,0.0
+5,AlphaTauri,2013,2013-04-21,Bahrain Grand Prix,0.0
+208,Alpine,2013,2013-04-21,Bahrain Grand Prix,33.0
+10,Aston Martin,2013,2013-04-21,Bahrain Grand Prix,12.0
+6,Ferrari,2013,2013-04-21,Bahrain Grand Prix,4.0
+1,McLaren,2013,2013-04-21,Bahrain Grand Prix,9.0
+131,Mercedes,2013,2013-04-21,Bahrain Grand Prix,12.0
+9,Red Bull,2013,2013-04-21,Bahrain Grand Prix,31.0
+3,Williams,2013,2013-04-21,Bahrain Grand Prix,0.0
+15,Alfa Romeo,2013,2013-05-12,Spanish Grand Prix,0.0
+5,AlphaTauri,2013,2013-05-12,Spanish Grand Prix,1.0
+208,Alpine,2013,2013-05-12,Spanish Grand Prix,18.0
+10,Aston Martin,2013,2013-05-12,Spanish Grand Prix,6.0
+6,Ferrari,2013,2013-05-12,Spanish Grand Prix,40.0
+1,McLaren,2013,2013-05-12,Spanish Grand Prix,6.0
+131,Mercedes,2013,2013-05-12,Spanish Grand Prix,8.0
+9,Red Bull,2013,2013-05-12,Spanish Grand Prix,22.0
+3,Williams,2013,2013-05-12,Spanish Grand Prix,0.0
+15,Alfa Romeo,2013,2013-05-26,Monaco Grand Prix,0.0
+5,AlphaTauri,2013,2013-05-26,Monaco Grand Prix,4.0
+208,Alpine,2013,2013-05-26,Monaco Grand Prix,1.0
+10,Aston Martin,2013,2013-05-26,Monaco Grand Prix,12.0
+6,Ferrari,2013,2013-05-26,Monaco Grand Prix,6.0
+1,McLaren,2013,2013-05-26,Monaco Grand Prix,8.0
+131,Mercedes,2013,2013-05-26,Monaco Grand Prix,37.0
+9,Red Bull,2013,2013-05-26,Monaco Grand Prix,33.0
+3,Williams,2013,2013-05-26,Monaco Grand Prix,0.0
+15,Alfa Romeo,2013,2013-06-09,Canadian Grand Prix,0.0
+5,AlphaTauri,2013,2013-06-09,Canadian Grand Prix,8.0
+208,Alpine,2013,2013-06-09,Canadian Grand Prix,2.0
+10,Aston Martin,2013,2013-06-09,Canadian Grand Prix,7.0
+6,Ferrari,2013,2013-06-09,Canadian Grand Prix,22.0
+1,McLaren,2013,2013-06-09,Canadian Grand Prix,0.0
+131,Mercedes,2013,2013-06-09,Canadian Grand Prix,25.0
+9,Red Bull,2013,2013-06-09,Canadian Grand Prix,37.0
+3,Williams,2013,2013-06-09,Canadian Grand Prix,0.0
+15,Alfa Romeo,2013,2013-06-30,British Grand Prix,1.0
+5,AlphaTauri,2013,2013-06-30,British Grand Prix,4.0
+208,Alpine,2013,2013-06-30,British Grand Prix,10.0
+10,Aston Martin,2013,2013-06-30,British Grand Prix,8.0
+6,Ferrari,2013,2013-06-30,British Grand Prix,23.0
+1,McLaren,2013,2013-06-30,British Grand Prix,0.0
+131,Mercedes,2013,2013-06-30,British Grand Prix,37.0
+9,Red Bull,2013,2013-06-30,British Grand Prix,18.0
+3,Williams,2013,2013-06-30,British Grand Prix,0.0
+15,Alfa Romeo,2013,2013-07-07,German Grand Prix,1.0
+5,AlphaTauri,2013,2013-07-07,German Grand Prix,0.0
+208,Alpine,2013,2013-07-07,German Grand Prix,33.0
+10,Aston Martin,2013,2013-07-07,German Grand Prix,0.0
+6,Ferrari,2013,2013-07-07,German Grand Prix,12.0
+1,McLaren,2013,2013-07-07,German Grand Prix,12.0
+131,Mercedes,2013,2013-07-07,German Grand Prix,12.0
+9,Red Bull,2013,2013-07-07,German Grand Prix,31.0
+3,Williams,2013,2013-07-07,German Grand Prix,0.0
+15,Alfa Romeo,2013,2013-07-28,Hungarian Grand Prix,0.0
+5,AlphaTauri,2013,2013-07-28,Hungarian Grand Prix,0.0
+208,Alpine,2013,2013-07-28,Hungarian Grand Prix,26.0
+10,Aston Martin,2013,2013-07-28,Hungarian Grand Prix,0.0
+6,Ferrari,2013,2013-07-28,Hungarian Grand Prix,14.0
+1,McLaren,2013,2013-07-28,Hungarian Grand Prix,8.0
+131,Mercedes,2013,2013-07-28,Hungarian Grand Prix,25.0
+9,Red Bull,2013,2013-07-28,Hungarian Grand Prix,27.0
+3,Williams,2013,2013-07-28,Hungarian Grand Prix,1.0
+15,Alfa Romeo,2013,2013-08-25,Belgian Grand Prix,0.0
+5,AlphaTauri,2013,2013-08-25,Belgian Grand Prix,1.0
+208,Alpine,2013,2013-08-25,Belgian Grand Prix,4.0
+10,Aston Martin,2013,2013-08-25,Belgian Grand Prix,2.0
+6,Ferrari,2013,2013-08-25,Belgian Grand Prix,24.0
+1,McLaren,2013,2013-08-25,Belgian Grand Prix,8.0
+131,Mercedes,2013,2013-08-25,Belgian Grand Prix,27.0
+9,Red Bull,2013,2013-08-25,Belgian Grand Prix,35.0
+3,Williams,2013,2013-08-25,Belgian Grand Prix,0.0
+15,Alfa Romeo,2013,2013-09-08,Italian Grand Prix,10.0
+5,AlphaTauri,2013,2013-09-08,Italian Grand Prix,6.0
+208,Alpine,2013,2013-09-08,Italian Grand Prix,4.0
+10,Aston Martin,2013,2013-09-08,Italian Grand Prix,0.0
+6,Ferrari,2013,2013-09-08,Italian Grand Prix,30.0
+1,McLaren,2013,2013-09-08,Italian Grand Prix,1.0
+131,Mercedes,2013,2013-09-08,Italian Grand Prix,10.0
+9,Red Bull,2013,2013-09-08,Italian Grand Prix,40.0
+3,Williams,2013,2013-09-08,Italian Grand Prix,0.0
+15,Alfa Romeo,2013,2013-09-22,Singapore Grand Prix,2.0
+5,AlphaTauri,2013,2013-09-22,Singapore Grand Prix,0.0
+208,Alpine,2013,2013-09-22,Singapore Grand Prix,15.0
+10,Aston Martin,2013,2013-09-22,Singapore Grand Prix,1.0
+6,Ferrari,2013,2013-09-22,Singapore Grand Prix,26.0
+1,McLaren,2013,2013-09-22,Singapore Grand Prix,10.0
+131,Mercedes,2013,2013-09-22,Singapore Grand Prix,22.0
+9,Red Bull,2013,2013-09-22,Singapore Grand Prix,25.0
+3,Williams,2013,2013-09-22,Singapore Grand Prix,0.0
+15,Alfa Romeo,2013,2013-10-06,Korean Grand Prix,12.0
+5,AlphaTauri,2013,2013-10-06,Korean Grand Prix,0.0
+208,Alpine,2013,2013-10-06,Korean Grand Prix,33.0
+10,Aston Martin,2013,2013-10-06,Korean Grand Prix,0.0
+6,Ferrari,2013,2013-10-06,Korean Grand Prix,10.0
+1,McLaren,2013,2013-10-06,Korean Grand Prix,5.0
+131,Mercedes,2013,2013-10-06,Korean Grand Prix,16.0
+9,Red Bull,2013,2013-10-06,Korean Grand Prix,25.0
+3,Williams,2013,2013-10-06,Korean Grand Prix,0.0
+15,Alfa Romeo,2013,2013-10-13,Japanese Grand Prix,14.0
+5,AlphaTauri,2013,2013-10-13,Japanese Grand Prix,0.0
+208,Alpine,2013,2013-10-13,Japanese Grand Prix,25.0
+10,Aston Martin,2013,2013-10-13,Japanese Grand Prix,0.0
+6,Ferrari,2013,2013-10-13,Japanese Grand Prix,13.0
+1,McLaren,2013,2013-10-13,Japanese Grand Prix,2.0
+131,Mercedes,2013,2013-10-13,Japanese Grand Prix,4.0
+9,Red Bull,2013,2013-10-13,Japanese Grand Prix,43.0
+3,Williams,2013,2013-10-13,Japanese Grand Prix,0.0
+15,Alfa Romeo,2013,2013-10-27,Indian Grand Prix,0.0
+5,AlphaTauri,2013,2013-10-27,Indian Grand Prix,1.0
+208,Alpine,2013,2013-10-27,Indian Grand Prix,21.0
+10,Aston Martin,2013,2013-10-27,Indian Grand Prix,6.0
+6,Ferrari,2013,2013-10-27,Indian Grand Prix,12.0
+1,McLaren,2013,2013-10-27,Indian Grand Prix,10.0
+131,Mercedes,2013,2013-10-27,Indian Grand Prix,26.0
+9,Red Bull,2013,2013-10-27,Indian Grand Prix,25.0
+3,Williams,2013,2013-10-27,Indian Grand Prix,0.0
+15,Alfa Romeo,2013,2013-11-03,Abu Dhabi Grand Prix,0.0
+5,AlphaTauri,2013,2013-11-03,Abu Dhabi Grand Prix,0.0
+208,Alpine,2013,2013-11-03,Abu Dhabi Grand Prix,12.0
+10,Aston Martin,2013,2013-11-03,Abu Dhabi Grand Prix,9.0
+6,Ferrari,2013,2013-11-03,Abu Dhabi Grand Prix,14.0
+1,McLaren,2013,2013-11-03,Abu Dhabi Grand Prix,2.0
+131,Mercedes,2013,2013-11-03,Abu Dhabi Grand Prix,21.0
+9,Red Bull,2013,2013-11-03,Abu Dhabi Grand Prix,43.0
+3,Williams,2013,2013-11-03,Abu Dhabi Grand Prix,0.0
+15,Alfa Romeo,2013,2013-11-17,United States Grand Prix,8.0
+5,AlphaTauri,2013,2013-11-17,United States Grand Prix,0.0
+208,Alpine,2013,2013-11-17,United States Grand Prix,18.0
+10,Aston Martin,2013,2013-11-17,United States Grand Prix,0.0
+6,Ferrari,2013,2013-11-17,United States Grand Prix,10.0
+1,McLaren,2013,2013-11-17,United States Grand Prix,7.0
+131,Mercedes,2013,2013-11-17,United States Grand Prix,14.0
+9,Red Bull,2013,2013-11-17,United States Grand Prix,40.0
+3,Williams,2013,2013-11-17,United States Grand Prix,4.0
+15,Alfa Romeo,2013,2013-11-24,Brazilian Grand Prix,4.0
+5,AlphaTauri,2013,2013-11-24,Brazilian Grand Prix,1.0
+208,Alpine,2013,2013-11-24,Brazilian Grand Prix,0.0
+10,Aston Martin,2013,2013-11-24,Brazilian Grand Prix,0.0
+6,Ferrari,2013,2013-11-24,Brazilian Grand Prix,21.0
+1,McLaren,2013,2013-11-24,Brazilian Grand Prix,20.0
+131,Mercedes,2013,2013-11-24,Brazilian Grand Prix,12.0
+9,Red Bull,2013,2013-11-24,Brazilian Grand Prix,43.0
+3,Williams,2013,2013-11-24,Brazilian Grand Prix,0.0

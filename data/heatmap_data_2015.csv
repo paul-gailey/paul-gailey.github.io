@@ -1,0 +1,172 @@
+constructorId,constructorName,year,date,raceName,points
+15,Alfa Romeo,2015,2015-03-15,Australian Grand Prix,14.0
+5,AlphaTauri,2015,2015-03-15,Australian Grand Prix,2.0
+208,Alpine,2015,2015-03-15,Australian Grand Prix,0.0
+10,Aston Martin,2015,2015-03-15,Australian Grand Prix,7.0
+6,Ferrari,2015,2015-03-15,Australian Grand Prix,15.0
+1,McLaren,2015,2015-03-15,Australian Grand Prix,0.0
+131,Mercedes,2015,2015-03-15,Australian Grand Prix,43.0
+9,Red Bull,2015,2015-03-15,Australian Grand Prix,8.0
+3,Williams,2015,2015-03-15,Australian Grand Prix,12.0
+15,Alfa Romeo,2015,2015-03-29,Malaysian Grand Prix,0.0
+5,AlphaTauri,2015,2015-03-29,Malaysian Grand Prix,10.0
+208,Alpine,2015,2015-03-29,Malaysian Grand Prix,0.0
+10,Aston Martin,2015,2015-03-29,Malaysian Grand Prix,0.0
+6,Ferrari,2015,2015-03-29,Malaysian Grand Prix,37.0
+1,McLaren,2015,2015-03-29,Malaysian Grand Prix,0.0
+131,Mercedes,2015,2015-03-29,Malaysian Grand Prix,33.0
+9,Red Bull,2015,2015-03-29,Malaysian Grand Prix,3.0
+3,Williams,2015,2015-03-29,Malaysian Grand Prix,18.0
+15,Alfa Romeo,2015,2015-04-12,Chinese Grand Prix,5.0
+5,AlphaTauri,2015,2015-04-12,Chinese Grand Prix,0.0
+208,Alpine,2015,2015-04-12,Chinese Grand Prix,6.0
+10,Aston Martin,2015,2015-04-12,Chinese Grand Prix,0.0
+6,Ferrari,2015,2015-04-12,Chinese Grand Prix,27.0
+1,McLaren,2015,2015-04-12,Chinese Grand Prix,0.0
+131,Mercedes,2015,2015-04-12,Chinese Grand Prix,43.0
+9,Red Bull,2015,2015-04-12,Chinese Grand Prix,2.0
+3,Williams,2015,2015-04-12,Chinese Grand Prix,18.0
+15,Alfa Romeo,2015,2015-04-19,Bahrain Grand Prix,0.0
+5,AlphaTauri,2015,2015-04-19,Bahrain Grand Prix,0.0
+208,Alpine,2015,2015-04-19,Bahrain Grand Prix,6.0
+10,Aston Martin,2015,2015-04-19,Bahrain Grand Prix,4.0
+6,Ferrari,2015,2015-04-19,Bahrain Grand Prix,28.0
+1,McLaren,2015,2015-04-19,Bahrain Grand Prix,0.0
+131,Mercedes,2015,2015-04-19,Bahrain Grand Prix,40.0
+9,Red Bull,2015,2015-04-19,Bahrain Grand Prix,10.0
+3,Williams,2015,2015-04-19,Bahrain Grand Prix,13.0
+15,Alfa Romeo,2015,2015-05-10,Spanish Grand Prix,0.0
+5,AlphaTauri,2015,2015-05-10,Spanish Grand Prix,2.0
+208,Alpine,2015,2015-05-10,Spanish Grand Prix,4.0
+10,Aston Martin,2015,2015-05-10,Spanish Grand Prix,0.0
+6,Ferrari,2015,2015-05-10,Spanish Grand Prix,25.0
+1,McLaren,2015,2015-05-10,Spanish Grand Prix,0.0
+131,Mercedes,2015,2015-05-10,Spanish Grand Prix,43.0
+9,Red Bull,2015,2015-05-10,Spanish Grand Prix,7.0
+3,Williams,2015,2015-05-10,Spanish Grand Prix,20.0
+15,Alfa Romeo,2015,2015-05-24,Monaco Grand Prix,2.0
+5,AlphaTauri,2015,2015-05-24,Monaco Grand Prix,1.0
+208,Alpine,2015,2015-05-24,Monaco Grand Prix,0.0
+10,Aston Martin,2015,2015-05-24,Monaco Grand Prix,6.0
+6,Ferrari,2015,2015-05-24,Monaco Grand Prix,26.0
+1,McLaren,2015,2015-05-24,Monaco Grand Prix,4.0
+131,Mercedes,2015,2015-05-24,Monaco Grand Prix,40.0
+9,Red Bull,2015,2015-05-24,Monaco Grand Prix,22.0
+3,Williams,2015,2015-05-24,Monaco Grand Prix,0.0
+15,Alfa Romeo,2015,2015-06-07,Canadian Grand Prix,0.0
+5,AlphaTauri,2015,2015-06-07,Canadian Grand Prix,0.0
+208,Alpine,2015,2015-06-07,Canadian Grand Prix,7.0
+10,Aston Martin,2015,2015-06-07,Canadian Grand Prix,4.0
+6,Ferrari,2015,2015-06-07,Canadian Grand Prix,22.0
+1,McLaren,2015,2015-06-07,Canadian Grand Prix,0.0
+131,Mercedes,2015,2015-06-07,Canadian Grand Prix,43.0
+9,Red Bull,2015,2015-06-07,Canadian Grand Prix,2.0
+3,Williams,2015,2015-06-07,Canadian Grand Prix,23.0
+15,Alfa Romeo,2015,2015-06-21,Austrian Grand Prix,0.0
+5,AlphaTauri,2015,2015-06-21,Austrian Grand Prix,4.0
+208,Alpine,2015,2015-06-21,Austrian Grand Prix,6.0
+10,Aston Martin,2015,2015-06-21,Austrian Grand Prix,10.0
+6,Ferrari,2015,2015-06-21,Austrian Grand Prix,12.0
+1,McLaren,2015,2015-06-21,Austrian Grand Prix,0.0
+131,Mercedes,2015,2015-06-21,Austrian Grand Prix,43.0
+9,Red Bull,2015,2015-06-21,Austrian Grand Prix,1.0
+3,Williams,2015,2015-06-21,Austrian Grand Prix,25.0
+15,Alfa Romeo,2015,2015-07-05,British Grand Prix,0.0
+5,AlphaTauri,2015,2015-07-05,British Grand Prix,0.0
+208,Alpine,2015,2015-07-05,British Grand Prix,0.0
+10,Aston Martin,2015,2015-07-05,British Grand Prix,8.0
+6,Ferrari,2015,2015-07-05,British Grand Prix,19.0
+1,McLaren,2015,2015-07-05,British Grand Prix,1.0
+131,Mercedes,2015,2015-07-05,British Grand Prix,43.0
+9,Red Bull,2015,2015-07-05,British Grand Prix,8.0
+3,Williams,2015,2015-07-05,British Grand Prix,22.0
+15,Alfa Romeo,2015,2015-07-26,Hungarian Grand Prix,1.0
+5,AlphaTauri,2015,2015-07-26,Hungarian Grand Prix,12.0
+208,Alpine,2015,2015-07-26,Hungarian Grand Prix,6.0
+10,Aston Martin,2015,2015-07-26,Hungarian Grand Prix,0.0
+6,Ferrari,2015,2015-07-26,Hungarian Grand Prix,25.0
+1,McLaren,2015,2015-07-26,Hungarian Grand Prix,12.0
+131,Mercedes,2015,2015-07-26,Hungarian Grand Prix,12.0
+9,Red Bull,2015,2015-07-26,Hungarian Grand Prix,33.0
+3,Williams,2015,2015-07-26,Hungarian Grand Prix,0.0
+15,Alfa Romeo,2015,2015-08-23,Belgian Grand Prix,1.0
+5,AlphaTauri,2015,2015-08-23,Belgian Grand Prix,4.0
+208,Alpine,2015,2015-08-23,Belgian Grand Prix,15.0
+10,Aston Martin,2015,2015-08-23,Belgian Grand Prix,10.0
+6,Ferrari,2015,2015-08-23,Belgian Grand Prix,6.0
+1,McLaren,2015,2015-08-23,Belgian Grand Prix,0.0
+131,Mercedes,2015,2015-08-23,Belgian Grand Prix,43.0
+9,Red Bull,2015,2015-08-23,Belgian Grand Prix,12.0
+3,Williams,2015,2015-08-23,Belgian Grand Prix,10.0
+15,Alfa Romeo,2015,2015-09-06,Italian Grand Prix,2.0
+5,AlphaTauri,2015,2015-09-06,Italian Grand Prix,0.0
+208,Alpine,2015,2015-09-06,Italian Grand Prix,0.0
+10,Aston Martin,2015,2015-09-06,Italian Grand Prix,14.0
+6,Ferrari,2015,2015-09-06,Italian Grand Prix,28.0
+1,McLaren,2015,2015-09-06,Italian Grand Prix,0.0
+131,Mercedes,2015,2015-09-06,Italian Grand Prix,25.0
+9,Red Bull,2015,2015-09-06,Italian Grand Prix,5.0
+3,Williams,2015,2015-09-06,Italian Grand Prix,27.0
+15,Alfa Romeo,2015,2015-09-20,Singapore Grand Prix,1.0
+5,AlphaTauri,2015,2015-09-20,Singapore Grand Prix,6.0
+208,Alpine,2015,2015-09-20,Singapore Grand Prix,0.0
+10,Aston Martin,2015,2015-09-20,Singapore Grand Prix,6.0
+6,Ferrari,2015,2015-09-20,Singapore Grand Prix,40.0
+1,McLaren,2015,2015-09-20,Singapore Grand Prix,0.0
+131,Mercedes,2015,2015-09-20,Singapore Grand Prix,12.0
+9,Red Bull,2015,2015-09-20,Singapore Grand Prix,26.0
+3,Williams,2015,2015-09-20,Singapore Grand Prix,10.0
+15,Alfa Romeo,2015,2015-09-27,Japanese Grand Prix,0.0
+5,AlphaTauri,2015,2015-09-27,Japanese Grand Prix,3.0
+208,Alpine,2015,2015-09-27,Japanese Grand Prix,10.0
+10,Aston Martin,2015,2015-09-27,Japanese Grand Prix,8.0
+6,Ferrari,2015,2015-09-27,Japanese Grand Prix,27.0
+1,McLaren,2015,2015-09-27,Japanese Grand Prix,0.0
+131,Mercedes,2015,2015-09-27,Japanese Grand Prix,43.0
+9,Red Bull,2015,2015-09-27,Japanese Grand Prix,0.0
+3,Williams,2015,2015-09-27,Japanese Grand Prix,10.0
+15,Alfa Romeo,2015,2015-10-11,Russian Grand Prix,8.0
+5,AlphaTauri,2015,2015-10-11,Russian Grand Prix,1.0
+208,Alpine,2015,2015-10-11,Russian Grand Prix,6.0
+10,Aston Martin,2015,2015-10-11,Russian Grand Prix,15.0
+6,Ferrari,2015,2015-10-11,Russian Grand Prix,22.0
+1,McLaren,2015,2015-10-11,Russian Grand Prix,2.0
+131,Mercedes,2015,2015-10-11,Russian Grand Prix,25.0
+9,Red Bull,2015,2015-10-11,Russian Grand Prix,10.0
+3,Williams,2015,2015-10-11,Russian Grand Prix,12.0
+15,Alfa Romeo,2015,2015-10-25,United States Grand Prix,2.0
+5,AlphaTauri,2015,2015-10-25,United States Grand Prix,18.0
+208,Alpine,2015,2015-10-25,United States Grand Prix,4.0
+10,Aston Martin,2015,2015-10-25,United States Grand Prix,10.0
+6,Ferrari,2015,2015-10-25,United States Grand Prix,15.0
+1,McLaren,2015,2015-10-25,United States Grand Prix,8.0
+131,Mercedes,2015,2015-10-25,United States Grand Prix,43.0
+9,Red Bull,2015,2015-10-25,United States Grand Prix,1.0
+3,Williams,2015,2015-10-25,United States Grand Prix,0.0
+15,Alfa Romeo,2015,2015-11-01,Mexican Grand Prix,0.0
+5,AlphaTauri,2015,2015-11-01,Mexican Grand Prix,2.0
+208,Alpine,2015,2015-11-01,Mexican Grand Prix,1.0
+10,Aston Martin,2015,2015-11-01,Mexican Grand Prix,10.0
+6,Ferrari,2015,2015-11-01,Mexican Grand Prix,0.0
+1,McLaren,2015,2015-11-01,Mexican Grand Prix,0.0
+131,Mercedes,2015,2015-11-01,Mexican Grand Prix,43.0
+9,Red Bull,2015,2015-11-01,Mexican Grand Prix,22.0
+3,Williams,2015,2015-11-01,Mexican Grand Prix,23.0
+15,Alfa Romeo,2015,2015-11-15,Brazilian Grand Prix,0.0
+5,AlphaTauri,2015,2015-11-15,Brazilian Grand Prix,2.0
+208,Alpine,2015,2015-11-15,Brazilian Grand Prix,5.0
+10,Aston Martin,2015,2015-11-15,Brazilian Grand Prix,8.0
+6,Ferrari,2015,2015-11-15,Brazilian Grand Prix,27.0
+1,McLaren,2015,2015-11-15,Brazilian Grand Prix,0.0
+131,Mercedes,2015,2015-11-15,Brazilian Grand Prix,43.0
+9,Red Bull,2015,2015-11-15,Brazilian Grand Prix,6.0
+3,Williams,2015,2015-11-15,Brazilian Grand Prix,10.0
+15,Alfa Romeo,2015,2015-11-29,Abu Dhabi Grand Prix,0.0
+5,AlphaTauri,2015,2015-11-29,Abu Dhabi Grand Prix,0.0
+208,Alpine,2015,2015-11-29,Abu Dhabi Grand Prix,2.0
+10,Aston Martin,2015,2015-11-29,Abu Dhabi Grand Prix,16.0
+6,Ferrari,2015,2015-11-29,Abu Dhabi Grand Prix,27.0
+1,McLaren,2015,2015-11-29,Abu Dhabi Grand Prix,0.0
+131,Mercedes,2015,2015-11-29,Abu Dhabi Grand Prix,43.0
+9,Red Bull,2015,2015-11-29,Abu Dhabi Grand Prix,9.0
+3,Williams,2015,2015-11-29,Abu Dhabi Grand Prix,4.0

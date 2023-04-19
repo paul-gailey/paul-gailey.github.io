@@ -1,0 +1,172 @@
+constructorId,constructorName,year,date,raceName,points
+15,Alfa Romeo,2014,2014-03-16,Australian Grand Prix,0.0
+5,AlphaTauri,2014,2014-03-16,Australian Grand Prix,6.0
+208,Alpine,2014,2014-03-16,Australian Grand Prix,0.0
+10,Aston Martin,2014,2014-03-16,Australian Grand Prix,9.0
+6,Ferrari,2014,2014-03-16,Australian Grand Prix,18.0
+1,McLaren,2014,2014-03-16,Australian Grand Prix,33.0
+131,Mercedes,2014,2014-03-16,Australian Grand Prix,25.0
+9,Red Bull,2014,2014-03-16,Australian Grand Prix,0.0
+3,Williams,2014,2014-03-16,Australian Grand Prix,10.0
+15,Alfa Romeo,2014,2014-03-30,Malaysian Grand Prix,0.0
+5,AlphaTauri,2014,2014-03-30,Malaysian Grand Prix,1.0
+208,Alpine,2014,2014-03-30,Malaysian Grand Prix,0.0
+10,Aston Martin,2014,2014-03-30,Malaysian Grand Prix,10.0
+6,Ferrari,2014,2014-03-30,Malaysian Grand Prix,12.0
+1,McLaren,2014,2014-03-30,Malaysian Grand Prix,10.0
+131,Mercedes,2014,2014-03-30,Malaysian Grand Prix,43.0
+9,Red Bull,2014,2014-03-30,Malaysian Grand Prix,15.0
+3,Williams,2014,2014-03-30,Malaysian Grand Prix,10.0
+15,Alfa Romeo,2014,2014-04-06,Bahrain Grand Prix,0.0
+5,AlphaTauri,2014,2014-04-06,Bahrain Grand Prix,0.0
+208,Alpine,2014,2014-04-06,Bahrain Grand Prix,0.0
+10,Aston Martin,2014,2014-04-06,Bahrain Grand Prix,25.0
+6,Ferrari,2014,2014-04-06,Bahrain Grand Prix,3.0
+1,McLaren,2014,2014-04-06,Bahrain Grand Prix,0.0
+131,Mercedes,2014,2014-04-06,Bahrain Grand Prix,43.0
+9,Red Bull,2014,2014-04-06,Bahrain Grand Prix,20.0
+3,Williams,2014,2014-04-06,Bahrain Grand Prix,10.0
+15,Alfa Romeo,2014,2014-04-20,Chinese Grand Prix,0.0
+5,AlphaTauri,2014,2014-04-20,Chinese Grand Prix,1.0
+208,Alpine,2014,2014-04-20,Chinese Grand Prix,0.0
+10,Aston Martin,2014,2014-04-20,Chinese Grand Prix,10.0
+6,Ferrari,2014,2014-04-20,Chinese Grand Prix,19.0
+1,McLaren,2014,2014-04-20,Chinese Grand Prix,0.0
+131,Mercedes,2014,2014-04-20,Chinese Grand Prix,43.0
+9,Red Bull,2014,2014-04-20,Chinese Grand Prix,22.0
+3,Williams,2014,2014-04-20,Chinese Grand Prix,6.0
+15,Alfa Romeo,2014,2014-05-11,Spanish Grand Prix,0.0
+5,AlphaTauri,2014,2014-05-11,Spanish Grand Prix,0.0
+208,Alpine,2014,2014-05-11,Spanish Grand Prix,4.0
+10,Aston Martin,2014,2014-05-11,Spanish Grand Prix,3.0
+6,Ferrari,2014,2014-05-11,Spanish Grand Prix,14.0
+1,McLaren,2014,2014-05-11,Spanish Grand Prix,0.0
+131,Mercedes,2014,2014-05-11,Spanish Grand Prix,43.0
+9,Red Bull,2014,2014-05-11,Spanish Grand Prix,27.0
+3,Williams,2014,2014-05-11,Spanish Grand Prix,10.0
+15,Alfa Romeo,2014,2014-05-25,Monaco Grand Prix,0.0
+5,AlphaTauri,2014,2014-05-25,Monaco Grand Prix,0.0
+208,Alpine,2014,2014-05-25,Monaco Grand Prix,4.0
+10,Aston Martin,2014,2014-05-25,Monaco Grand Prix,10.0
+6,Ferrari,2014,2014-05-25,Monaco Grand Prix,12.0
+1,McLaren,2014,2014-05-25,Monaco Grand Prix,9.0
+131,Mercedes,2014,2014-05-25,Monaco Grand Prix,43.0
+9,Red Bull,2014,2014-05-25,Monaco Grand Prix,15.0
+3,Williams,2014,2014-05-25,Monaco Grand Prix,6.0
+15,Alfa Romeo,2014,2014-06-08,Canadian Grand Prix,0.0
+5,AlphaTauri,2014,2014-06-08,Canadian Grand Prix,4.0
+208,Alpine,2014,2014-06-08,Canadian Grand Prix,0.0
+10,Aston Martin,2014,2014-06-08,Canadian Grand Prix,10.0
+6,Ferrari,2014,2014-06-08,Canadian Grand Prix,9.0
+1,McLaren,2014,2014-06-08,Canadian Grand Prix,14.0
+131,Mercedes,2014,2014-06-08,Canadian Grand Prix,18.0
+9,Red Bull,2014,2014-06-08,Canadian Grand Prix,40.0
+3,Williams,2014,2014-06-08,Canadian Grand Prix,6.0
+15,Alfa Romeo,2014,2014-06-22,Austrian Grand Prix,0.0
+5,AlphaTauri,2014,2014-06-22,Austrian Grand Prix,0.0
+208,Alpine,2014,2014-06-22,Austrian Grand Prix,0.0
+10,Aston Martin,2014,2014-06-22,Austrian Grand Prix,10.0
+6,Ferrari,2014,2014-06-22,Austrian Grand Prix,11.0
+1,McLaren,2014,2014-06-22,Austrian Grand Prix,6.0
+131,Mercedes,2014,2014-06-22,Austrian Grand Prix,43.0
+9,Red Bull,2014,2014-06-22,Austrian Grand Prix,4.0
+3,Williams,2014,2014-06-22,Austrian Grand Prix,27.0
+15,Alfa Romeo,2014,2014-07-06,British Grand Prix,0.0
+5,AlphaTauri,2014,2014-07-06,British Grand Prix,3.0
+208,Alpine,2014,2014-07-06,British Grand Prix,0.0
+10,Aston Martin,2014,2014-07-06,British Grand Prix,4.0
+6,Ferrari,2014,2014-07-06,British Grand Prix,8.0
+1,McLaren,2014,2014-07-06,British Grand Prix,18.0
+131,Mercedes,2014,2014-07-06,British Grand Prix,25.0
+9,Red Bull,2014,2014-07-06,British Grand Prix,25.0
+3,Williams,2014,2014-07-06,British Grand Prix,18.0
+15,Alfa Romeo,2014,2014-07-20,German Grand Prix,0.0
+5,AlphaTauri,2014,2014-07-20,German Grand Prix,0.0
+208,Alpine,2014,2014-07-20,German Grand Prix,0.0
+10,Aston Martin,2014,2014-07-20,German Grand Prix,7.0
+6,Ferrari,2014,2014-07-20,German Grand Prix,10.0
+1,McLaren,2014,2014-07-20,German Grand Prix,6.0
+131,Mercedes,2014,2014-07-20,German Grand Prix,40.0
+9,Red Bull,2014,2014-07-20,German Grand Prix,20.0
+3,Williams,2014,2014-07-20,German Grand Prix,18.0
+15,Alfa Romeo,2014,2014-07-27,Hungarian Grand Prix,0.0
+5,AlphaTauri,2014,2014-07-27,Hungarian Grand Prix,2.0
+208,Alpine,2014,2014-07-27,Hungarian Grand Prix,0.0
+10,Aston Martin,2014,2014-07-27,Hungarian Grand Prix,0.0
+6,Ferrari,2014,2014-07-27,Hungarian Grand Prix,26.0
+1,McLaren,2014,2014-07-27,Hungarian Grand Prix,1.0
+131,Mercedes,2014,2014-07-27,Hungarian Grand Prix,27.0
+9,Red Bull,2014,2014-07-27,Hungarian Grand Prix,31.0
+3,Williams,2014,2014-07-27,Hungarian Grand Prix,14.0
+15,Alfa Romeo,2014,2014-08-24,Belgian Grand Prix,0.0
+5,AlphaTauri,2014,2014-08-24,Belgian Grand Prix,2.0
+208,Alpine,2014,2014-08-24,Belgian Grand Prix,0.0
+10,Aston Martin,2014,2014-08-24,Belgian Grand Prix,5.0
+6,Ferrari,2014,2014-08-24,Belgian Grand Prix,18.0
+1,McLaren,2014,2014-08-24,Belgian Grand Prix,8.0
+131,Mercedes,2014,2014-08-24,Belgian Grand Prix,18.0
+9,Red Bull,2014,2014-08-24,Belgian Grand Prix,35.0
+3,Williams,2014,2014-08-24,Belgian Grand Prix,15.0
+15,Alfa Romeo,2014,2014-09-07,Italian Grand Prix,0.0
+5,AlphaTauri,2014,2014-09-07,Italian Grand Prix,0.0
+208,Alpine,2014,2014-09-07,Italian Grand Prix,0.0
+10,Aston Martin,2014,2014-09-07,Italian Grand Prix,6.0
+6,Ferrari,2014,2014-09-07,Italian Grand Prix,2.0
+1,McLaren,2014,2014-09-07,Italian Grand Prix,5.0
+131,Mercedes,2014,2014-09-07,Italian Grand Prix,43.0
+9,Red Bull,2014,2014-09-07,Italian Grand Prix,18.0
+3,Williams,2014,2014-09-07,Italian Grand Prix,27.0
+15,Alfa Romeo,2014,2014-09-21,Singapore Grand Prix,0.0
+5,AlphaTauri,2014,2014-09-21,Singapore Grand Prix,8.0
+208,Alpine,2014,2014-09-21,Singapore Grand Prix,0.0
+10,Aston Martin,2014,2014-09-21,Singapore Grand Prix,8.0
+6,Ferrari,2014,2014-09-21,Singapore Grand Prix,16.0
+1,McLaren,2014,2014-09-21,Singapore Grand Prix,1.0
+131,Mercedes,2014,2014-09-21,Singapore Grand Prix,25.0
+9,Red Bull,2014,2014-09-21,Singapore Grand Prix,33.0
+3,Williams,2014,2014-09-21,Singapore Grand Prix,10.0
+15,Alfa Romeo,2014,2014-10-05,Japanese Grand Prix,0.0
+5,AlphaTauri,2014,2014-10-05,Japanese Grand Prix,2.0
+208,Alpine,2014,2014-10-05,Japanese Grand Prix,0.0
+10,Aston Martin,2014,2014-10-05,Japanese Grand Prix,5.0
+6,Ferrari,2014,2014-10-05,Japanese Grand Prix,0.0
+1,McLaren,2014,2014-10-05,Japanese Grand Prix,10.0
+131,Mercedes,2014,2014-10-05,Japanese Grand Prix,43.0
+9,Red Bull,2014,2014-10-05,Japanese Grand Prix,27.0
+3,Williams,2014,2014-10-05,Japanese Grand Prix,14.0
+15,Alfa Romeo,2014,2014-10-12,Russian Grand Prix,0.0
+5,AlphaTauri,2014,2014-10-12,Russian Grand Prix,0.0
+208,Alpine,2014,2014-10-12,Russian Grand Prix,0.0
+10,Aston Martin,2014,2014-10-12,Russian Grand Prix,1.0
+6,Ferrari,2014,2014-10-12,Russian Grand Prix,10.0
+1,McLaren,2014,2014-10-12,Russian Grand Prix,22.0
+131,Mercedes,2014,2014-10-12,Russian Grand Prix,43.0
+9,Red Bull,2014,2014-10-12,Russian Grand Prix,10.0
+3,Williams,2014,2014-10-12,Russian Grand Prix,15.0
+15,Alfa Romeo,2014,2014-11-02,United States Grand Prix,0.0
+5,AlphaTauri,2014,2014-11-02,United States Grand Prix,1.0
+208,Alpine,2014,2014-11-02,United States Grand Prix,2.0
+10,Aston Martin,2014,2014-11-02,United States Grand Prix,0.0
+6,Ferrari,2014,2014-11-02,United States Grand Prix,8.0
+1,McLaren,2014,2014-11-02,United States Grand Prix,4.0
+131,Mercedes,2014,2014-11-02,United States Grand Prix,43.0
+9,Red Bull,2014,2014-11-02,United States Grand Prix,21.0
+3,Williams,2014,2014-11-02,United States Grand Prix,22.0
+15,Alfa Romeo,2014,2014-11-09,Brazilian Grand Prix,0.0
+5,AlphaTauri,2014,2014-11-09,Brazilian Grand Prix,0.0
+208,Alpine,2014,2014-11-09,Brazilian Grand Prix,0.0
+10,Aston Martin,2014,2014-11-09,Brazilian Grand Prix,4.0
+6,Ferrari,2014,2014-11-09,Brazilian Grand Prix,14.0
+1,McLaren,2014,2014-11-09,Brazilian Grand Prix,14.0
+131,Mercedes,2014,2014-11-09,Brazilian Grand Prix,43.0
+9,Red Bull,2014,2014-11-09,Brazilian Grand Prix,10.0
+3,Williams,2014,2014-11-09,Brazilian Grand Prix,16.0
+15,Alfa Romeo,2014,2014-11-23,Abu Dhabi Grand Prix,0.0
+5,AlphaTauri,2014,2014-11-23,Abu Dhabi Grand Prix,0.0
+208,Alpine,2014,2014-11-23,Abu Dhabi Grand Prix,0.0
+10,Aston Martin,2014,2014-11-23,Abu Dhabi Grand Prix,28.0
+6,Ferrari,2014,2014-11-23,Abu Dhabi Grand Prix,6.0
+1,McLaren,2014,2014-11-23,Abu Dhabi Grand Prix,20.0
+131,Mercedes,2014,2014-11-23,Abu Dhabi Grand Prix,50.0
+9,Red Bull,2014,2014-11-23,Abu Dhabi Grand Prix,32.0
+3,Williams,2014,2014-11-23,Abu Dhabi Grand Prix,66.0

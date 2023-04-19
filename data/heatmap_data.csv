@@ -1,0 +1,161 @@
+year,constructorName,constructorId,points
+2006,Alfa Romeo,36,36.0
+2006,AlphaTauri,90,1.0
+2006,Alpine,72,206.0
+2006,Aston Martin,238,0.0
+2006,Ferrari,108,201.0
+2006,McLaren,18,110.0
+2006,Mercedes,198,86.0
+2006,Red Bull,162,16.0
+2006,Williams,54,11.0
+2007,Alfa Romeo,34,101.0
+2007,AlphaTauri,85,8.0
+2007,Alpine,68,51.0
+2007,Aston Martin,204,1.0
+2007,Ferrari,102,204.0
+2007,McLaren,17,218.0
+2007,Mercedes,187,6.0
+2007,Red Bull,153,24.0
+2007,Williams,51,33.0
+2008,Alfa Romeo,36,135.0
+2008,AlphaTauri,90,39.0
+2008,Alpine,72,80.0
+2008,Aston Martin,180,0.0
+2008,Ferrari,108,172.0
+2008,McLaren,18,151.0
+2008,Mercedes,198,14.0
+2008,Red Bull,162,29.0
+2008,Williams,54,26.0
+2009,Alfa Romeo,34,36.0
+2009,AlphaTauri,85,8.0
+2009,Alpine,68,26.0
+2009,Aston Martin,170,13.0
+2009,Ferrari,102,70.0
+2009,McLaren,17,71.0
+2009,Mercedes,391,172.0
+2009,Red Bull,153,153.5
+2009,Williams,51,34.5
+2010,Alfa Romeo,285,44.0
+2010,AlphaTauri,95,13.0
+2010,Alpine,76,163.0
+2010,Aston Martin,190,68.0
+2010,Ferrari,114,396.0
+2010,McLaren,19,454.0
+2010,Mercedes,2489,214.0
+2010,Red Bull,171,498.0
+2010,Williams,57,69.0
+2011,Alfa Romeo,285,44.0
+2011,AlphaTauri,95,41.0
+2011,Alpine,76,73.0
+2011,Aston Martin,190,69.0
+2011,Ferrari,114,375.0
+2011,McLaren,19,497.0
+2011,Mercedes,2489,165.0
+2011,Red Bull,171,650.0
+2011,Williams,57,5.0
+2012,Alfa Romeo,300,126.0
+2012,AlphaTauri,100,26.0
+2012,Alpine,4160,303.0
+2012,Aston Martin,200,109.0
+2012,Ferrari,120,400.0
+2012,McLaren,20,378.0
+2012,Mercedes,2620,142.0
+2012,Red Bull,180,460.0
+2012,Williams,60,76.0
+2013,Alfa Romeo,285,57.0
+2013,AlphaTauri,95,33.0
+2013,Alpine,3952,315.0
+2013,Aston Martin,190,77.0
+2013,Ferrari,114,354.0
+2013,McLaren,19,122.0
+2013,Mercedes,2489,360.0
+2013,Red Bull,171,596.0
+2013,Williams,57,5.0
+2014,Alfa Romeo,285,0.0
+2014,AlphaTauri,95,30.0
+2014,Alpine,3952,10.0
+2014,Aston Martin,190,155.0
+2014,Ferrari,114,216.0
+2014,McLaren,19,181.0
+2014,Mercedes,2489,701.0
+2014,Red Bull,171,405.0
+2014,Williams,57,320.0
+2015,Alfa Romeo,285,36.0
+2015,AlphaTauri,95,67.0
+2015,Alpine,3952,78.0
+2015,Aston Martin,190,136.0
+2015,Ferrari,114,428.0
+2015,McLaren,19,27.0
+2015,Mercedes,2489,703.0
+2015,Red Bull,171,187.0
+2015,Williams,57,257.0
+2016,Alfa Romeo,315,2.0
+2016,AlphaTauri,105,63.0
+2016,Alpine,84,8.0
+2016,Aston Martin,210,173.0
+2016,Ferrari,126,398.0
+2016,Haas F1 Team,4410,29.0
+2016,McLaren,21,76.0
+2016,Mercedes,2751,765.0
+2016,Red Bull,189,468.0
+2016,Williams,63,138.0
+2017,Alfa Romeo,300,5.0
+2017,AlphaTauri,100,53.0
+2017,Alpine,80,57.0
+2017,Aston Martin,200,187.0
+2017,Ferrari,120,522.0
+2017,Haas F1 Team,4200,47.0
+2017,McLaren,20,30.0
+2017,Mercedes,2620,668.0
+2017,Red Bull,180,368.0
+2017,Williams,60,83.0
+2018,Alfa Romeo,315,48.0
+2018,AlphaTauri,105,33.0
+2018,Alpine,84,122.0
+2018,Aston Martin,210,111.0
+2018,Ferrari,126,571.0
+2018,Haas F1 Team,4410,93.0
+2018,McLaren,21,62.0
+2018,Mercedes,2751,655.0
+2018,Red Bull,189,419.0
+2018,Williams,63,7.0
+2019,Alfa Romeo,1071,57.0
+2019,AlphaTauri,105,85.0
+2019,Alpine,84,91.0
+2019,Aston Martin,4431,73.0
+2019,Ferrari,126,504.0
+2019,Haas F1 Team,4410,28.0
+2019,McLaren,21,145.0
+2019,Mercedes,2751,739.0
+2019,Red Bull,189,417.0
+2019,Williams,63,1.0
+2020,Alfa Romeo,867,8.0
+2020,AlphaTauri,3621,107.0
+2020,Alpine,68,181.0
+2020,Aston Martin,3587,210.0
+2020,Ferrari,102,131.0
+2020,Haas F1 Team,3570,3.0
+2020,McLaren,17,202.0
+2020,Mercedes,2227,573.0
+2020,Red Bull,153,319.0
+2020,Williams,51,0.0
+2021,Alfa Romeo,1122,13.0
+2021,AlphaTauri,4686,142.0
+2021,Alpine,4708,155.0
+2021,Aston Martin,2574,77.0
+2021,Ferrari,132,323.5
+2021,Haas F1 Team,4620,0.0
+2021,McLaren,22,275.0
+2021,Mercedes,2882,613.5
+2021,Red Bull,198,585.5
+2021,Williams,66,23.0
+2022,Alfa Romeo,1122,55.0
+2022,AlphaTauri,4686,35.0
+2022,Alpine,4708,173.0
+2022,Aston Martin,2574,55.0
+2022,Ferrari,132,554.0
+2022,Haas F1 Team,4620,37.0
+2022,McLaren,22,159.0
+2022,Mercedes,2882,515.0
+2022,Red Bull,198,759.0
+2022,Williams,66,8.0

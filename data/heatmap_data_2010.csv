@@ -1,0 +1,172 @@
+constructorId,constructorName,year,date,raceName,points
+15,Alfa Romeo,2010,2010-03-14,Bahrain Grand Prix,0.0
+5,AlphaTauri,2010,2010-03-14,Bahrain Grand Prix,0.0
+4,Alpine,2010,2010-03-14,Bahrain Grand Prix,0.0
+10,Aston Martin,2010,2010-03-14,Bahrain Grand Prix,2.0
+6,Ferrari,2010,2010-03-14,Bahrain Grand Prix,43.0
+1,McLaren,2010,2010-03-14,Bahrain Grand Prix,21.0
+131,Mercedes,2010,2010-03-14,Bahrain Grand Prix,18.0
+9,Red Bull,2010,2010-03-14,Bahrain Grand Prix,16.0
+3,Williams,2010,2010-03-14,Bahrain Grand Prix,1.0
+15,Alfa Romeo,2010,2010-03-28,Australian Grand Prix,0.0
+5,AlphaTauri,2010,2010-03-28,Australian Grand Prix,0.0
+4,Alpine,2010,2010-03-28,Australian Grand Prix,18.0
+10,Aston Martin,2010,2010-03-28,Australian Grand Prix,6.0
+6,Ferrari,2010,2010-03-28,Australian Grand Prix,27.0
+1,McLaren,2010,2010-03-28,Australian Grand Prix,33.0
+131,Mercedes,2010,2010-03-28,Australian Grand Prix,11.0
+9,Red Bull,2010,2010-03-28,Australian Grand Prix,2.0
+3,Williams,2010,2010-03-28,Australian Grand Prix,4.0
+15,Alfa Romeo,2010,2010-04-04,Malaysian Grand Prix,0.0
+5,AlphaTauri,2010,2010-04-04,Malaysian Grand Prix,2.0
+4,Alpine,2010,2010-04-04,Malaysian Grand Prix,12.0
+10,Aston Martin,2010,2010-04-04,Malaysian Grand Prix,10.0
+6,Ferrari,2010,2010-04-04,Malaysian Grand Prix,6.0
+1,McLaren,2010,2010-04-04,Malaysian Grand Prix,12.0
+131,Mercedes,2010,2010-04-04,Malaysian Grand Prix,15.0
+9,Red Bull,2010,2010-04-04,Malaysian Grand Prix,43.0
+3,Williams,2010,2010-04-04,Malaysian Grand Prix,1.0
+15,Alfa Romeo,2010,2010-04-18,Chinese Grand Prix,0.0
+5,AlphaTauri,2010,2010-04-18,Chinese Grand Prix,0.0
+4,Alpine,2010,2010-04-18,Chinese Grand Prix,16.0
+10,Aston Martin,2010,2010-04-18,Chinese Grand Prix,0.0
+6,Ferrari,2010,2010-04-18,Chinese Grand Prix,14.0
+1,McLaren,2010,2010-04-18,Chinese Grand Prix,43.0
+131,Mercedes,2010,2010-04-18,Chinese Grand Prix,16.0
+9,Red Bull,2010,2010-04-18,Chinese Grand Prix,12.0
+3,Williams,2010,2010-04-18,Chinese Grand Prix,0.0
+15,Alfa Romeo,2010,2010-05-09,Spanish Grand Prix,0.0
+5,AlphaTauri,2010,2010-05-09,Spanish Grand Prix,1.0
+4,Alpine,2010,2010-05-09,Spanish Grand Prix,4.0
+10,Aston Martin,2010,2010-05-09,Spanish Grand Prix,6.0
+6,Ferrari,2010,2010-05-09,Spanish Grand Prix,26.0
+1,McLaren,2010,2010-05-09,Spanish Grand Prix,10.0
+131,Mercedes,2010,2010-05-09,Spanish Grand Prix,12.0
+9,Red Bull,2010,2010-05-09,Spanish Grand Prix,40.0
+3,Williams,2010,2010-05-09,Spanish Grand Prix,2.0
+15,Alfa Romeo,2010,2010-05-16,Monaco Grand Prix,0.0
+5,AlphaTauri,2010,2010-05-16,Monaco Grand Prix,1.0
+4,Alpine,2010,2010-05-16,Monaco Grand Prix,15.0
+10,Aston Martin,2010,2010-05-16,Monaco Grand Prix,6.0
+6,Ferrari,2010,2010-05-16,Monaco Grand Prix,20.0
+1,McLaren,2010,2010-05-16,Monaco Grand Prix,10.0
+131,Mercedes,2010,2010-05-16,Monaco Grand Prix,6.0
+9,Red Bull,2010,2010-05-16,Monaco Grand Prix,43.0
+3,Williams,2010,2010-05-16,Monaco Grand Prix,0.0
+15,Alfa Romeo,2010,2010-05-30,Turkish Grand Prix,1.0
+5,AlphaTauri,2010,2010-05-30,Turkish Grand Prix,0.0
+4,Alpine,2010,2010-05-30,Turkish Grand Prix,8.0
+10,Aston Martin,2010,2010-05-30,Turkish Grand Prix,2.0
+6,Ferrari,2010,2010-05-30,Turkish Grand Prix,10.0
+1,McLaren,2010,2010-05-30,Turkish Grand Prix,43.0
+131,Mercedes,2010,2010-05-30,Turkish Grand Prix,22.0
+9,Red Bull,2010,2010-05-30,Turkish Grand Prix,15.0
+3,Williams,2010,2010-05-30,Turkish Grand Prix,0.0
+15,Alfa Romeo,2010,2010-06-13,Canadian Grand Prix,0.0
+5,AlphaTauri,2010,2010-06-13,Canadian Grand Prix,4.0
+4,Alpine,2010,2010-06-13,Canadian Grand Prix,6.0
+10,Aston Martin,2010,2010-06-13,Canadian Grand Prix,3.0
+6,Ferrari,2010,2010-06-13,Canadian Grand Prix,15.0
+1,McLaren,2010,2010-06-13,Canadian Grand Prix,43.0
+131,Mercedes,2010,2010-06-13,Canadian Grand Prix,8.0
+9,Red Bull,2010,2010-06-13,Canadian Grand Prix,22.0
+3,Williams,2010,2010-06-13,Canadian Grand Prix,0.0
+15,Alfa Romeo,2010,2010-06-27,European Grand Prix,6.0
+5,AlphaTauri,2010,2010-06-27,European Grand Prix,2.0
+4,Alpine,2010,2010-06-27,European Grand Prix,10.0
+10,Aston Martin,2010,2010-06-27,European Grand Prix,8.0
+6,Ferrari,2010,2010-06-27,European Grand Prix,4.0
+1,McLaren,2010,2010-06-27,European Grand Prix,33.0
+131,Mercedes,2010,2010-06-27,European Grand Prix,1.0
+9,Red Bull,2010,2010-06-27,European Grand Prix,25.0
+3,Williams,2010,2010-06-27,European Grand Prix,12.0
+15,Alfa Romeo,2010,2010-07-11,British Grand Prix,8.0
+5,AlphaTauri,2010,2010-07-11,British Grand Prix,0.0
+4,Alpine,2010,2010-07-11,British Grand Prix,0.0
+10,Aston Martin,2010,2010-07-11,British Grand Prix,4.0
+6,Ferrari,2010,2010-07-11,British Grand Prix,0.0
+1,McLaren,2010,2010-07-11,British Grand Prix,30.0
+131,Mercedes,2010,2010-07-11,British Grand Prix,17.0
+9,Red Bull,2010,2010-07-11,British Grand Prix,31.0
+3,Williams,2010,2010-07-11,British Grand Prix,11.0
+15,Alfa Romeo,2010,2010-07-25,German Grand Prix,0.0
+5,AlphaTauri,2010,2010-07-25,German Grand Prix,0.0
+4,Alpine,2010,2010-07-25,German Grand Prix,7.0
+10,Aston Martin,2010,2010-07-25,German Grand Prix,0.0
+6,Ferrari,2010,2010-07-25,German Grand Prix,43.0
+1,McLaren,2010,2010-07-25,German Grand Prix,22.0
+131,Mercedes,2010,2010-07-25,German Grand Prix,6.0
+9,Red Bull,2010,2010-07-25,German Grand Prix,23.0
+3,Williams,2010,2010-07-25,German Grand Prix,0.0
+15,Alfa Romeo,2010,2010-08-01,Hungarian Grand Prix,8.0
+5,AlphaTauri,2010,2010-08-01,Hungarian Grand Prix,0.0
+4,Alpine,2010,2010-08-01,Hungarian Grand Prix,10.0
+10,Aston Martin,2010,2010-08-01,Hungarian Grand Prix,0.0
+6,Ferrari,2010,2010-08-01,Hungarian Grand Prix,30.0
+1,McLaren,2010,2010-08-01,Hungarian Grand Prix,4.0
+131,Mercedes,2010,2010-08-01,Hungarian Grand Prix,0.0
+9,Red Bull,2010,2010-08-01,Hungarian Grand Prix,40.0
+3,Williams,2010,2010-08-01,Hungarian Grand Prix,9.0
+15,Alfa Romeo,2010,2010-08-29,Belgian Grand Prix,4.0
+5,AlphaTauri,2010,2010-08-29,Belgian Grand Prix,0.0
+4,Alpine,2010,2010-08-29,Belgian Grand Prix,17.0
+10,Aston Martin,2010,2010-08-29,Belgian Grand Prix,11.0
+6,Ferrari,2010,2010-08-29,Belgian Grand Prix,12.0
+1,McLaren,2010,2010-08-29,Belgian Grand Prix,25.0
+131,Mercedes,2010,2010-08-29,Belgian Grand Prix,14.0
+9,Red Bull,2010,2010-08-29,Belgian Grand Prix,18.0
+3,Williams,2010,2010-08-29,Belgian Grand Prix,0.0
+15,Alfa Romeo,2010,2010-09-12,Italian Grand Prix,0.0
+5,AlphaTauri,2010,2010-09-12,Italian Grand Prix,0.0
+4,Alpine,2010,2010-09-12,Italian Grand Prix,4.0
+10,Aston Martin,2010,2010-09-12,Italian Grand Prix,0.0
+6,Ferrari,2010,2010-09-12,Italian Grand Prix,40.0
+1,McLaren,2010,2010-09-12,Italian Grand Prix,18.0
+131,Mercedes,2010,2010-09-12,Italian Grand Prix,12.0
+9,Red Bull,2010,2010-09-12,Italian Grand Prix,20.0
+3,Williams,2010,2010-09-12,Italian Grand Prix,7.0
+15,Alfa Romeo,2010,2010-09-26,Singapore Grand Prix,0.0
+5,AlphaTauri,2010,2010-09-26,Singapore Grand Prix,0.0
+4,Alpine,2010,2010-09-26,Singapore Grand Prix,6.0
+10,Aston Martin,2010,2010-09-26,Singapore Grand Prix,2.0
+6,Ferrari,2010,2010-09-26,Singapore Grand Prix,29.0
+1,McLaren,2010,2010-09-26,Singapore Grand Prix,12.0
+131,Mercedes,2010,2010-09-26,Singapore Grand Prix,10.0
+9,Red Bull,2010,2010-09-26,Singapore Grand Prix,33.0
+3,Williams,2010,2010-09-26,Singapore Grand Prix,9.0
+15,Alfa Romeo,2010,2010-10-10,Japanese Grand Prix,10.0
+5,AlphaTauri,2010,2010-10-10,Japanese Grand Prix,1.0
+4,Alpine,2010,2010-10-10,Japanese Grand Prix,0.0
+10,Aston Martin,2010,2010-10-10,Japanese Grand Prix,0.0
+6,Ferrari,2010,2010-10-10,Japanese Grand Prix,15.0
+1,McLaren,2010,2010-10-10,Japanese Grand Prix,22.0
+131,Mercedes,2010,2010-10-10,Japanese Grand Prix,8.0
+9,Red Bull,2010,2010-10-10,Japanese Grand Prix,43.0
+3,Williams,2010,2010-10-10,Japanese Grand Prix,2.0
+15,Alfa Romeo,2010,2010-10-24,Korean Grand Prix,6.0
+5,AlphaTauri,2010,2010-10-24,Korean Grand Prix,0.0
+4,Alpine,2010,2010-10-24,Korean Grand Prix,10.0
+10,Aston Martin,2010,2010-10-24,Korean Grand Prix,8.0
+6,Ferrari,2010,2010-10-24,Korean Grand Prix,40.0
+1,McLaren,2010,2010-10-24,Korean Grand Prix,18.0
+131,Mercedes,2010,2010-10-24,Korean Grand Prix,12.0
+9,Red Bull,2010,2010-10-24,Korean Grand Prix,0.0
+3,Williams,2010,2010-10-24,Korean Grand Prix,7.0
+15,Alfa Romeo,2010,2010-11-07,Brazilian Grand Prix,1.0
+5,AlphaTauri,2010,2010-11-07,Brazilian Grand Prix,0.0
+4,Alpine,2010,2010-11-07,Brazilian Grand Prix,2.0
+10,Aston Martin,2010,2010-11-07,Brazilian Grand Prix,0.0
+6,Ferrari,2010,2010-11-07,Brazilian Grand Prix,15.0
+1,McLaren,2010,2010-11-07,Brazilian Grand Prix,22.0
+131,Mercedes,2010,2010-11-07,Brazilian Grand Prix,14.0
+9,Red Bull,2010,2010-11-07,Brazilian Grand Prix,43.0
+3,Williams,2010,2010-11-07,Brazilian Grand Prix,4.0
+15,Alfa Romeo,2010,2010-11-14,Abu Dhabi Grand Prix,0.0
+5,AlphaTauri,2010,2010-11-14,Abu Dhabi Grand Prix,2.0
+4,Alpine,2010,2010-11-14,Abu Dhabi Grand Prix,18.0
+10,Aston Martin,2010,2010-11-14,Abu Dhabi Grand Prix,0.0
+6,Ferrari,2010,2010-11-14,Abu Dhabi Grand Prix,7.0
+1,McLaren,2010,2010-11-14,Abu Dhabi Grand Prix,33.0
+131,Mercedes,2010,2010-11-14,Abu Dhabi Grand Prix,12.0
+9,Red Bull,2010,2010-11-14,Abu Dhabi Grand Prix,29.0
+3,Williams,2010,2010-11-14,Abu Dhabi Grand Prix,0.0

@@ -1,0 +1,154 @@
+constructorId,constructorName,year,date,raceName,points
+2,Alfa Romeo,2007,2007-03-18,Australian Grand Prix,5.0
+5,AlphaTauri,2007,2007-03-18,Australian Grand Prix,0.0
+4,Alpine,2007,2007-03-18,Australian Grand Prix,4.0
+12,Aston Martin,2007,2007-03-18,Australian Grand Prix,0.0
+6,Ferrari,2007,2007-03-18,Australian Grand Prix,13.0
+1,McLaren,2007,2007-03-18,Australian Grand Prix,14.0
+11,Mercedes,2007,2007-03-18,Australian Grand Prix,0.0
+9,Red Bull,2007,2007-03-18,Australian Grand Prix,0.0
+3,Williams,2007,2007-03-18,Australian Grand Prix,2.0
+2,Alfa Romeo,2007,2007-04-08,Malaysian Grand Prix,5.0
+5,AlphaTauri,2007,2007-04-08,Malaysian Grand Prix,0.0
+4,Alpine,2007,2007-04-08,Malaysian Grand Prix,4.0
+12,Aston Martin,2007,2007-04-08,Malaysian Grand Prix,0.0
+6,Ferrari,2007,2007-04-08,Malaysian Grand Prix,10.0
+1,McLaren,2007,2007-04-08,Malaysian Grand Prix,18.0
+11,Mercedes,2007,2007-04-08,Malaysian Grand Prix,0.0
+9,Red Bull,2007,2007-04-08,Malaysian Grand Prix,0.0
+3,Williams,2007,2007-04-08,Malaysian Grand Prix,0.0
+2,Alfa Romeo,2007,2007-04-15,Bahrain Grand Prix,8.0
+5,AlphaTauri,2007,2007-04-15,Bahrain Grand Prix,0.0
+4,Alpine,2007,2007-04-15,Bahrain Grand Prix,1.0
+12,Aston Martin,2007,2007-04-15,Bahrain Grand Prix,0.0
+6,Ferrari,2007,2007-04-15,Bahrain Grand Prix,16.0
+1,McLaren,2007,2007-04-15,Bahrain Grand Prix,12.0
+11,Mercedes,2007,2007-04-15,Bahrain Grand Prix,0.0
+9,Red Bull,2007,2007-04-15,Bahrain Grand Prix,0.0
+3,Williams,2007,2007-04-15,Bahrain Grand Prix,0.0
+2,Alfa Romeo,2007,2007-05-13,Spanish Grand Prix,5.0
+5,AlphaTauri,2007,2007-05-13,Spanish Grand Prix,0.0
+4,Alpine,2007,2007-05-13,Spanish Grand Prix,2.0
+12,Aston Martin,2007,2007-05-13,Spanish Grand Prix,0.0
+6,Ferrari,2007,2007-05-13,Spanish Grand Prix,10.0
+1,McLaren,2007,2007-05-13,Spanish Grand Prix,14.0
+11,Mercedes,2007,2007-05-13,Spanish Grand Prix,0.0
+9,Red Bull,2007,2007-05-13,Spanish Grand Prix,4.0
+3,Williams,2007,2007-05-13,Spanish Grand Prix,3.0
+2,Alfa Romeo,2007,2007-05-27,Monaco Grand Prix,7.0
+5,AlphaTauri,2007,2007-05-27,Monaco Grand Prix,0.0
+4,Alpine,2007,2007-05-27,Monaco Grand Prix,5.0
+12,Aston Martin,2007,2007-05-27,Monaco Grand Prix,0.0
+6,Ferrari,2007,2007-05-27,Monaco Grand Prix,7.0
+1,McLaren,2007,2007-05-27,Monaco Grand Prix,18.0
+11,Mercedes,2007,2007-05-27,Monaco Grand Prix,0.0
+9,Red Bull,2007,2007-05-27,Monaco Grand Prix,0.0
+3,Williams,2007,2007-05-27,Monaco Grand Prix,2.0
+2,Alfa Romeo,2007,2007-06-10,Canadian Grand Prix,8.0
+5,AlphaTauri,2007,2007-06-10,Canadian Grand Prix,0.0
+4,Alpine,2007,2007-06-10,Canadian Grand Prix,5.0
+12,Aston Martin,2007,2007-06-10,Canadian Grand Prix,0.0
+6,Ferrari,2007,2007-06-10,Canadian Grand Prix,4.0
+1,McLaren,2007,2007-06-10,Canadian Grand Prix,12.0
+11,Mercedes,2007,2007-06-10,Canadian Grand Prix,0.0
+9,Red Bull,2007,2007-06-10,Canadian Grand Prix,0.0
+3,Williams,2007,2007-06-10,Canadian Grand Prix,6.0
+2,Alfa Romeo,2007,2007-06-17,United States Grand Prix,1.0
+5,AlphaTauri,2007,2007-06-17,United States Grand Prix,0.0
+4,Alpine,2007,2007-06-17,United States Grand Prix,4.0
+12,Aston Martin,2007,2007-06-17,United States Grand Prix,0.0
+6,Ferrari,2007,2007-06-17,United States Grand Prix,11.0
+1,McLaren,2007,2007-06-17,United States Grand Prix,18.0
+11,Mercedes,2007,2007-06-17,United States Grand Prix,0.0
+9,Red Bull,2007,2007-06-17,United States Grand Prix,2.0
+3,Williams,2007,2007-06-17,United States Grand Prix,0.0
+2,Alfa Romeo,2007,2007-07-01,French Grand Prix,9.0
+5,AlphaTauri,2007,2007-07-01,French Grand Prix,0.0
+4,Alpine,2007,2007-07-01,French Grand Prix,3.0
+12,Aston Martin,2007,2007-07-01,French Grand Prix,0.0
+6,Ferrari,2007,2007-07-01,French Grand Prix,18.0
+1,McLaren,2007,2007-07-01,French Grand Prix,8.0
+11,Mercedes,2007,2007-07-01,French Grand Prix,1.0
+9,Red Bull,2007,2007-07-01,French Grand Prix,0.0
+3,Williams,2007,2007-07-01,French Grand Prix,0.0
+2,Alfa Romeo,2007,2007-07-08,British Grand Prix,8.0
+5,AlphaTauri,2007,2007-07-08,British Grand Prix,0.0
+4,Alpine,2007,2007-07-08,British Grand Prix,3.0
+12,Aston Martin,2007,2007-07-08,British Grand Prix,0.0
+6,Ferrari,2007,2007-07-08,British Grand Prix,14.0
+1,McLaren,2007,2007-07-08,British Grand Prix,14.0
+11,Mercedes,2007,2007-07-08,British Grand Prix,0.0
+9,Red Bull,2007,2007-07-08,British Grand Prix,0.0
+3,Williams,2007,2007-07-08,British Grand Prix,0.0
+2,Alfa Romeo,2007,2007-07-22,European Grand Prix,5.0
+5,AlphaTauri,2007,2007-07-22,European Grand Prix,0.0
+4,Alpine,2007,2007-07-22,European Grand Prix,1.0
+12,Aston Martin,2007,2007-07-22,European Grand Prix,0.0
+6,Ferrari,2007,2007-07-22,European Grand Prix,8.0
+1,McLaren,2007,2007-07-22,European Grand Prix,10.0
+11,Mercedes,2007,2007-07-22,European Grand Prix,0.0
+9,Red Bull,2007,2007-07-22,European Grand Prix,10.0
+3,Williams,2007,2007-07-22,European Grand Prix,5.0
+2,Alfa Romeo,2007,2007-08-05,Hungarian Grand Prix,10.0
+5,AlphaTauri,2007,2007-08-05,Hungarian Grand Prix,0.0
+4,Alpine,2007,2007-08-05,Hungarian Grand Prix,1.0
+12,Aston Martin,2007,2007-08-05,Hungarian Grand Prix,0.0
+6,Ferrari,2007,2007-08-05,Hungarian Grand Prix,8.0
+1,McLaren,2007,2007-08-05,Hungarian Grand Prix,15.0
+11,Mercedes,2007,2007-08-05,Hungarian Grand Prix,0.0
+9,Red Bull,2007,2007-08-05,Hungarian Grand Prix,0.0
+3,Williams,2007,2007-08-05,Hungarian Grand Prix,2.0
+2,Alfa Romeo,2007,2007-08-26,Turkish Grand Prix,6.0
+5,AlphaTauri,2007,2007-08-26,Turkish Grand Prix,0.0
+4,Alpine,2007,2007-08-26,Turkish Grand Prix,3.0
+12,Aston Martin,2007,2007-08-26,Turkish Grand Prix,0.0
+6,Ferrari,2007,2007-08-26,Turkish Grand Prix,18.0
+1,McLaren,2007,2007-08-26,Turkish Grand Prix,10.0
+11,Mercedes,2007,2007-08-26,Turkish Grand Prix,0.0
+9,Red Bull,2007,2007-08-26,Turkish Grand Prix,0.0
+3,Williams,2007,2007-08-26,Turkish Grand Prix,2.0
+2,Alfa Romeo,2007,2007-09-09,Italian Grand Prix,9.0
+5,AlphaTauri,2007,2007-09-09,Italian Grand Prix,0.0
+4,Alpine,2007,2007-09-09,Italian Grand Prix,2.0
+12,Aston Martin,2007,2007-09-09,Italian Grand Prix,0.0
+6,Ferrari,2007,2007-09-09,Italian Grand Prix,6.0
+1,McLaren,2007,2007-09-09,Italian Grand Prix,18.0
+11,Mercedes,2007,2007-09-09,Italian Grand Prix,1.0
+9,Red Bull,2007,2007-09-09,Italian Grand Prix,0.0
+3,Williams,2007,2007-09-09,Italian Grand Prix,3.0
+2,Alfa Romeo,2007,2007-09-16,Belgian Grand Prix,4.0
+5,AlphaTauri,2007,2007-09-16,Belgian Grand Prix,0.0
+4,Alpine,2007,2007-09-16,Belgian Grand Prix,1.0
+12,Aston Martin,2007,2007-09-16,Belgian Grand Prix,0.0
+6,Ferrari,2007,2007-09-16,Belgian Grand Prix,18.0
+1,McLaren,2007,2007-09-16,Belgian Grand Prix,11.0
+11,Mercedes,2007,2007-09-16,Belgian Grand Prix,0.0
+9,Red Bull,2007,2007-09-16,Belgian Grand Prix,2.0
+3,Williams,2007,2007-09-16,Belgian Grand Prix,3.0
+2,Alfa Romeo,2007,2007-09-30,Japanese Grand Prix,2.0
+5,AlphaTauri,2007,2007-09-30,Japanese Grand Prix,0.0
+4,Alpine,2007,2007-09-30,Japanese Grand Prix,12.0
+12,Aston Martin,2007,2007-09-30,Japanese Grand Prix,1.0
+6,Ferrari,2007,2007-09-30,Japanese Grand Prix,9.0
+1,McLaren,2007,2007-09-30,Japanese Grand Prix,10.0
+11,Mercedes,2007,2007-09-30,Japanese Grand Prix,0.0
+9,Red Bull,2007,2007-09-30,Japanese Grand Prix,5.0
+3,Williams,2007,2007-09-30,Japanese Grand Prix,0.0
+2,Alfa Romeo,2007,2007-10-07,Chinese Grand Prix,2.0
+5,AlphaTauri,2007,2007-10-07,Chinese Grand Prix,8.0
+4,Alpine,2007,2007-10-07,Chinese Grand Prix,0.0
+12,Aston Martin,2007,2007-10-07,Chinese Grand Prix,0.0
+6,Ferrari,2007,2007-10-07,Chinese Grand Prix,16.0
+1,McLaren,2007,2007-10-07,Chinese Grand Prix,8.0
+11,Mercedes,2007,2007-10-07,Chinese Grand Prix,4.0
+9,Red Bull,2007,2007-10-07,Chinese Grand Prix,1.0
+3,Williams,2007,2007-10-07,Chinese Grand Prix,0.0
+2,Alfa Romeo,2007,2007-10-21,Brazilian Grand Prix,7.0
+5,AlphaTauri,2007,2007-10-21,Brazilian Grand Prix,0.0
+4,Alpine,2007,2007-10-21,Brazilian Grand Prix,0.0
+12,Aston Martin,2007,2007-10-21,Brazilian Grand Prix,0.0
+6,Ferrari,2007,2007-10-21,Brazilian Grand Prix,18.0
+1,McLaren,2007,2007-10-21,Brazilian Grand Prix,8.0
+11,Mercedes,2007,2007-10-21,Brazilian Grand Prix,0.0
+9,Red Bull,2007,2007-10-21,Brazilian Grand Prix,0.0
+3,Williams,2007,2007-10-21,Brazilian Grand Prix,5.0

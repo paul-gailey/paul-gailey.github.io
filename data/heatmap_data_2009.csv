@@ -1,0 +1,154 @@
+constructorId,constructorName,year,date,raceName,points
+2,Alfa Romeo,2009,2009-03-29,Australian Grand Prix,0.0
+5,AlphaTauri,2009,2009-03-29,Australian Grand Prix,3.0
+4,Alpine,2009,2009-03-29,Australian Grand Prix,4.0
+10,Aston Martin,2009,2009-03-29,Australian Grand Prix,0.0
+6,Ferrari,2009,2009-03-29,Australian Grand Prix,0.0
+1,McLaren,2009,2009-03-29,Australian Grand Prix,0.0
+23,Mercedes,2009,2009-03-29,Australian Grand Prix,18.0
+9,Red Bull,2009,2009-03-29,Australian Grand Prix,0.0
+3,Williams,2009,2009-03-29,Australian Grand Prix,3.0
+2,Alfa Romeo,2009,2009-04-05,Malaysian Grand Prix,4.0
+5,AlphaTauri,2009,2009-04-05,Malaysian Grand Prix,0.0
+4,Alpine,2009,2009-04-05,Malaysian Grand Prix,0.0
+10,Aston Martin,2009,2009-04-05,Malaysian Grand Prix,0.0
+6,Ferrari,2009,2009-04-05,Malaysian Grand Prix,0.0
+1,McLaren,2009,2009-04-05,Malaysian Grand Prix,1.0
+23,Mercedes,2009,2009-04-05,Malaysian Grand Prix,7.0
+9,Red Bull,2009,2009-04-05,Malaysian Grand Prix,1.5
+3,Williams,2009,2009-04-05,Malaysian Grand Prix,0.5
+2,Alfa Romeo,2009,2009-04-19,Chinese Grand Prix,0.0
+5,AlphaTauri,2009,2009-04-19,Chinese Grand Prix,1.0
+4,Alpine,2009,2009-04-19,Chinese Grand Prix,0.0
+10,Aston Martin,2009,2009-04-19,Chinese Grand Prix,0.0
+6,Ferrari,2009,2009-04-19,Chinese Grand Prix,0.0
+1,McLaren,2009,2009-04-19,Chinese Grand Prix,7.0
+23,Mercedes,2009,2009-04-19,Chinese Grand Prix,11.0
+9,Red Bull,2009,2009-04-19,Chinese Grand Prix,18.0
+3,Williams,2009,2009-04-19,Chinese Grand Prix,0.0
+2,Alfa Romeo,2009,2009-04-26,Bahrain Grand Prix,0.0
+5,AlphaTauri,2009,2009-04-26,Bahrain Grand Prix,0.0
+4,Alpine,2009,2009-04-26,Bahrain Grand Prix,1.0
+10,Aston Martin,2009,2009-04-26,Bahrain Grand Prix,0.0
+6,Ferrari,2009,2009-04-26,Bahrain Grand Prix,3.0
+1,McLaren,2009,2009-04-26,Bahrain Grand Prix,5.0
+23,Mercedes,2009,2009-04-26,Bahrain Grand Prix,14.0
+9,Red Bull,2009,2009-04-26,Bahrain Grand Prix,8.0
+3,Williams,2009,2009-04-26,Bahrain Grand Prix,0.0
+2,Alfa Romeo,2009,2009-05-10,Spanish Grand Prix,2.0
+5,AlphaTauri,2009,2009-05-10,Spanish Grand Prix,0.0
+4,Alpine,2009,2009-05-10,Spanish Grand Prix,4.0
+10,Aston Martin,2009,2009-05-10,Spanish Grand Prix,0.0
+6,Ferrari,2009,2009-05-10,Spanish Grand Prix,3.0
+1,McLaren,2009,2009-05-10,Spanish Grand Prix,0.0
+23,Mercedes,2009,2009-05-10,Spanish Grand Prix,18.0
+9,Red Bull,2009,2009-05-10,Spanish Grand Prix,11.0
+3,Williams,2009,2009-05-10,Spanish Grand Prix,1.0
+2,Alfa Romeo,2009,2009-05-24,Monaco Grand Prix,0.0
+5,AlphaTauri,2009,2009-05-24,Monaco Grand Prix,1.0
+4,Alpine,2009,2009-05-24,Monaco Grand Prix,2.0
+10,Aston Martin,2009,2009-05-24,Monaco Grand Prix,0.0
+6,Ferrari,2009,2009-05-24,Monaco Grand Prix,11.0
+1,McLaren,2009,2009-05-24,Monaco Grand Prix,0.0
+23,Mercedes,2009,2009-05-24,Monaco Grand Prix,18.0
+9,Red Bull,2009,2009-05-24,Monaco Grand Prix,4.0
+3,Williams,2009,2009-05-24,Monaco Grand Prix,3.0
+2,Alfa Romeo,2009,2009-06-07,Turkish Grand Prix,2.0
+5,AlphaTauri,2009,2009-06-07,Turkish Grand Prix,0.0
+4,Alpine,2009,2009-06-07,Turkish Grand Prix,0.0
+10,Aston Martin,2009,2009-06-07,Turkish Grand Prix,0.0
+6,Ferrari,2009,2009-06-07,Turkish Grand Prix,3.0
+1,McLaren,2009,2009-06-07,Turkish Grand Prix,0.0
+23,Mercedes,2009,2009-06-07,Turkish Grand Prix,10.0
+9,Red Bull,2009,2009-06-07,Turkish Grand Prix,14.0
+3,Williams,2009,2009-06-07,Turkish Grand Prix,4.0
+2,Alfa Romeo,2009,2009-06-21,British Grand Prix,0.0
+5,AlphaTauri,2009,2009-06-21,British Grand Prix,0.0
+4,Alpine,2009,2009-06-21,British Grand Prix,0.0
+10,Aston Martin,2009,2009-06-21,British Grand Prix,0.0
+6,Ferrari,2009,2009-06-21,British Grand Prix,6.0
+1,McLaren,2009,2009-06-21,British Grand Prix,0.0
+23,Mercedes,2009,2009-06-21,British Grand Prix,9.0
+9,Red Bull,2009,2009-06-21,British Grand Prix,18.0
+3,Williams,2009,2009-06-21,British Grand Prix,4.0
+2,Alfa Romeo,2009,2009-07-12,German Grand Prix,0.0
+5,AlphaTauri,2009,2009-07-12,German Grand Prix,0.0
+4,Alpine,2009,2009-07-12,German Grand Prix,2.0
+10,Aston Martin,2009,2009-07-12,German Grand Prix,0.0
+6,Ferrari,2009,2009-07-12,German Grand Prix,6.0
+1,McLaren,2009,2009-07-12,German Grand Prix,1.0
+23,Mercedes,2009,2009-07-12,German Grand Prix,7.0
+9,Red Bull,2009,2009-07-12,German Grand Prix,18.0
+3,Williams,2009,2009-07-12,German Grand Prix,5.0
+2,Alfa Romeo,2009,2009-07-26,Hungarian Grand Prix,0.0
+5,AlphaTauri,2009,2009-07-26,Hungarian Grand Prix,0.0
+4,Alpine,2009,2009-07-26,Hungarian Grand Prix,0.0
+10,Aston Martin,2009,2009-07-26,Hungarian Grand Prix,0.0
+6,Ferrari,2009,2009-07-26,Hungarian Grand Prix,8.0
+1,McLaren,2009,2009-07-26,Hungarian Grand Prix,14.0
+23,Mercedes,2009,2009-07-26,Hungarian Grand Prix,2.0
+9,Red Bull,2009,2009-07-26,Hungarian Grand Prix,6.0
+3,Williams,2009,2009-07-26,Hungarian Grand Prix,5.0
+2,Alfa Romeo,2009,2009-08-23,European Grand Prix,1.0
+5,AlphaTauri,2009,2009-08-23,European Grand Prix,0.0
+4,Alpine,2009,2009-08-23,European Grand Prix,3.0
+10,Aston Martin,2009,2009-08-23,European Grand Prix,0.0
+6,Ferrari,2009,2009-08-23,European Grand Prix,6.0
+1,McLaren,2009,2009-08-23,European Grand Prix,13.0
+23,Mercedes,2009,2009-08-23,European Grand Prix,12.0
+9,Red Bull,2009,2009-08-23,European Grand Prix,0.0
+3,Williams,2009,2009-08-23,European Grand Prix,4.0
+2,Alfa Romeo,2009,2009-08-30,Belgian Grand Prix,9.0
+5,AlphaTauri,2009,2009-08-30,Belgian Grand Prix,0.0
+4,Alpine,2009,2009-08-30,Belgian Grand Prix,0.0
+10,Aston Martin,2009,2009-08-30,Belgian Grand Prix,8.0
+6,Ferrari,2009,2009-08-30,Belgian Grand Prix,10.0
+1,McLaren,2009,2009-08-30,Belgian Grand Prix,3.0
+23,Mercedes,2009,2009-08-30,Belgian Grand Prix,2.0
+9,Red Bull,2009,2009-08-30,Belgian Grand Prix,6.0
+3,Williams,2009,2009-08-30,Belgian Grand Prix,1.0
+2,Alfa Romeo,2009,2009-09-13,Italian Grand Prix,2.0
+5,AlphaTauri,2009,2009-09-13,Italian Grand Prix,0.0
+4,Alpine,2009,2009-09-13,Italian Grand Prix,4.0
+10,Aston Martin,2009,2009-09-13,Italian Grand Prix,5.0
+6,Ferrari,2009,2009-09-13,Italian Grand Prix,6.0
+1,McLaren,2009,2009-09-13,Italian Grand Prix,3.0
+23,Mercedes,2009,2009-09-13,Italian Grand Prix,18.0
+9,Red Bull,2009,2009-09-13,Italian Grand Prix,1.0
+3,Williams,2009,2009-09-13,Italian Grand Prix,0.0
+2,Alfa Romeo,2009,2009-09-27,Singapore Grand Prix,1.0
+5,AlphaTauri,2009,2009-09-27,Singapore Grand Prix,0.0
+4,Alpine,2009,2009-09-27,Singapore Grand Prix,6.0
+10,Aston Martin,2009,2009-09-27,Singapore Grand Prix,0.0
+6,Ferrari,2009,2009-09-27,Singapore Grand Prix,0.0
+1,McLaren,2009,2009-09-27,Singapore Grand Prix,12.0
+23,Mercedes,2009,2009-09-27,Singapore Grand Prix,7.0
+9,Red Bull,2009,2009-09-27,Singapore Grand Prix,5.0
+3,Williams,2009,2009-09-27,Singapore Grand Prix,0.0
+2,Alfa Romeo,2009,2009-10-04,Japanese Grand Prix,3.0
+5,AlphaTauri,2009,2009-10-04,Japanese Grand Prix,0.0
+4,Alpine,2009,2009-10-04,Japanese Grand Prix,0.0
+10,Aston Martin,2009,2009-10-04,Japanese Grand Prix,0.0
+6,Ferrari,2009,2009-10-04,Japanese Grand Prix,5.0
+1,McLaren,2009,2009-10-04,Japanese Grand Prix,6.0
+23,Mercedes,2009,2009-10-04,Japanese Grand Prix,3.0
+9,Red Bull,2009,2009-10-04,Japanese Grand Prix,10.0
+3,Williams,2009,2009-10-04,Japanese Grand Prix,4.0
+2,Alfa Romeo,2009,2009-10-18,Brazilian Grand Prix,8.0
+5,AlphaTauri,2009,2009-10-18,Brazilian Grand Prix,2.0
+4,Alpine,2009,2009-10-18,Brazilian Grand Prix,0.0
+10,Aston Martin,2009,2009-10-18,Brazilian Grand Prix,0.0
+6,Ferrari,2009,2009-10-18,Brazilian Grand Prix,3.0
+1,McLaren,2009,2009-10-18,Brazilian Grand Prix,6.0
+23,Mercedes,2009,2009-10-18,Brazilian Grand Prix,5.0
+9,Red Bull,2009,2009-10-18,Brazilian Grand Prix,15.0
+3,Williams,2009,2009-10-18,Brazilian Grand Prix,0.0
+2,Alfa Romeo,2009,2009-11-01,Abu Dhabi Grand Prix,4.0
+5,AlphaTauri,2009,2009-11-01,Abu Dhabi Grand Prix,1.0
+4,Alpine,2009,2009-11-01,Abu Dhabi Grand Prix,0.0
+10,Aston Martin,2009,2009-11-01,Abu Dhabi Grand Prix,0.0
+6,Ferrari,2009,2009-11-01,Abu Dhabi Grand Prix,0.0
+1,McLaren,2009,2009-11-01,Abu Dhabi Grand Prix,0.0
+23,Mercedes,2009,2009-11-01,Abu Dhabi Grand Prix,11.0
+9,Red Bull,2009,2009-11-01,Abu Dhabi Grand Prix,18.0
+3,Williams,2009,2009-11-01,Abu Dhabi Grand Prix,0.0
